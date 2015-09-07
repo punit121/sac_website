@@ -1,5 +1,2 @@
-# SAC_WEBSITE
-Alumni cell IIT Kharagpur
-
-
-SAC_WEBSITE
+# sac-website
+Website for the Students' Alumni Cell, IIT Kharagpur

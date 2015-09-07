@@ -1,0 +1,5 @@
+p{ font-family:exomedium; font-size:20px;}h3{align:center;}html, body {  height: 100%;  width: 100%;  padding: 0;  margin: 0;}#big_wrapper{position:relative;margin-top:5px; padding:15px;}
+#sty{font-family: exomedium;font-size: 1.5rem;}
+.box:hover { -moz-box-shadow: 0 0 10px #ccc; -webkit-box-shadow: 0 0 10px #ccc; box-shadow: 0 0 10px #ccc;}
+.box a:link,visited,hover,active {text-decoration: none;}
+
