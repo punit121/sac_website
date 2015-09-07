@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="box" style="background-color:#101010;color:white;width:100%;">
+    <div class="box" style="background-color:#101010;color:grey;width:100%;">
 	<div class="row" id="1">
 	  <div class="col-md-4" id="verticalLine" style="float:left;left:10px;">
 	    
