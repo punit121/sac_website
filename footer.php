@@ -1,17 +1,5 @@
-<head>
-<style>
-#1{
-	
-	font-family: "adelle-sans", Helvetica, Arial, Sans-Serif;
-    font-size: 0.9rem;
-}
 
-</style>
-</head>
-
-<body>
-    <div class="box" style="background-color:#101010;color:grey;width:100%;">
-	<div class="row" id="1">
+	<div class="row" id="1" style="background-color:#101010;color:grey;width:100%;">
 	  <div class="col-md-4" id="verticalLine" style="float:left;left:10px;">
 	    
 		<br> 
@@ -52,6 +40,3 @@
 	  
 	  </div>
 	</div>
-</div>
- 
-</body>

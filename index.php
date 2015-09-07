@@ -22,6 +22,9 @@
 <?php include 'midbox.php' ;?>
 <br>
 </div>
+<div style="width:1300px;">
 <?php include 'footer.php';?>
+
+</div>
  </body>
 </html>
