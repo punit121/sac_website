@@ -125,7 +125,7 @@
                 <div class="panel"><img src="http://placehold.it/100x100" alt="img03"></div>
                 
                
-                <span><b>Abhishek Anand </b><br>Design Head abhishekanand.ar@<br>gmail.com +919800115569</span>
+                <span><b>Abhishek Anand </b><br><br>Design Head abhishekanand.ar@<br>gmail.com +919800115569</span>
                 
              
                 </figure>
@@ -135,7 +135,7 @@
                 <div class="panel"><img src="http://placehold.it/100x100" alt="img03"></div>
                 
                
-                <span><b>Ashish Verma </b><br>Design Head vashish39@gmail.com +918609273727</span>
+                <span><b>Ashish Verma </b><br><br>Design Head vashish39@gmail.com +918609273727</span>
                 
               
                 </figure>
@@ -145,7 +145,7 @@
                 <div class="panel"><img src="http://placehold.it/100x100" alt="img02"></div>
                 
               
-                <span> <b>Hiten Chowdhary</b><br>web head hiten.iitkgp@gmail.com +919800111032 </span>
+                <span> <b>Hiten Chowdhary</b><br><br>web head hiten.iitkgp@gmail.com +919800111032 </span>
                
              
                 </figure>
