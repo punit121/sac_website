@@ -21,7 +21,7 @@
                 <div class="panel"><img src="http://placehold.it/300x300" alt="img04"><a href="">Pranshu Jain</a></div>
                 <figcaption>
                
-                <span> <b>Pranshu jain </b><br>General Secretary  Students' Alumni Cell<p>pranshu.iitkgp@gmail<br>.com +919800189955 </p></span>
+                <span> <b>Pranshu jain </b><br>General Secretary  Students' Alumni Cell pranshu.iitkgp@gmail.com +919800189955 </span>
                 
                 </figcaption>
                 </figure>
@@ -34,7 +34,7 @@
                 <div class="panel"><img src="http://placehold.it/300x300" alt="img05"><a data-toggle="modal" href="">Rohan Gupta</a></div>
                 <figcaption>
                 
-                <span><b>Rohan Gupta</b><br> General Secretary, Students' Alumni Cell pranshu.iitkgp@gmail.com +919800189955 </span>
+                <span><b>Rohan Gupta</b><br> General Secretary, Students' Alumni Cell rg.rohan009@gmail.com +919800148553  </span>
                 
 
                 </figcaption>
