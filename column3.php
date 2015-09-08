@@ -1,32 +1,32 @@
 
-<div class="row" >
+<div class="container">
    <div  class="col-sm-4" >
-			<div class="box" style="padding:10px;">
-			<h3><center>For Students</center></h3>
-			<center><img src="http://placehold.it/60x60" width="60px" height="60px">
+			<div  style="padding:10px;text-align:center;">
+			<h3>For Students</h3>
+			<img src="http://placehold.it/60x60" align="middle"; width="60px" height="60px">
 	  <hr>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p></center>
-		  </div>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...
+		  </p></div>
 	 </div>
 	
    <div  class="col-sm-4" >
-		<div class="box" style="padding:10px;">
-      <h3><center>For Alumni</center></h3>
-			<center><img src="http://placehold.it/60x60" width="60px" height="60px">
+		<div  style="padding:10px;text-align:center;">
+      <h3>For Alumni</h3>
+			<img src="http://placehold.it/60x60" align="middle"; width="60px" height="60px">
      <hr>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p></center>
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
 		</div>
 	 </div>
 	
     <div  class="col-sm-4">
-			<div class="box" style="padding:10px;">
-      <h3><center>For Institute</h3>        
-			<center><img src="http://placehold.it/60x60" width="60px" height="60px">
+			<div  style="padding:10px;text-align:center;">
+      <h3>For Institute</h3>        
+			<img src="http://placehold.it/60x60" align="middle"; width="60px" height="60px">
      <hr>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p></center></center>
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
 			</div>
 	</div>
  </div>

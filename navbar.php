@@ -1,4 +1,4 @@
-<div class="navbar navbar-inverse navbar-fixed-top" >
+<div class="navbar navbar-inverse " >
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -6,11 +6,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-								<img src="http://placehold.it/100x100" style="float:left"/>
-                <a class="navbar-brand" href="#">STUDENTS' ALUMNI CELL</a>
+							
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav navbar-right">
+                <ul class="nav navbar-nav navbar-left">
                     <li><a href="index.php">HOME</a></li>
                      <li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS<span class="caret"></span></a>
 					 <ul class="dropdown-menu">
@@ -36,4 +35,4 @@
             </div>
            
         </div>
-    </div><br><br><br>
+    </div><br><br><br><br>

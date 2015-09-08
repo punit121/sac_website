@@ -9,7 +9,7 @@
 	<?php include 'navbar.php';?>
 	<br>
 	<div class="container demo-3">
-            <!-- Top Navigation -->
+           
 
             <header align="center" style="margin-top:75px;">
             <h1>Students' Alumni Cell</h1>
@@ -64,9 +64,7 @@
            
                 </figure>
                 </li>
-		</ul>	
 		
-        <ul class="grid cs-style-4"> 
 				<li>
                 <figure>
                 <div class="panel"><img src="http://placehold.it/100x100" alt="img03"></div>
@@ -107,8 +105,7 @@
             
                 </figure>
                 </li>
-		</ul>
-		<ul class="grid cs-style-4">		
+			
 				<li>
                 <figure>
                 <div class="panel"><img src="http://placehold.it/100x100" alt="img03"></div>
@@ -150,8 +147,7 @@
              
                 </figure>
                 </li>
-		</ul>		
-		<ul class="grid cs-style-4">		
+		
 				<li>
 				 <figure>
                 <div class="panel"><img src="http://placehold.it/100x100" alt="img05" ></div>
