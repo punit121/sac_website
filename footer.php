@@ -1,6 +1,6 @@
 
 <div class="row"  >
-	 <div class="col-md-4" id="verticalLine" style="float:left;left:10px;">
+	 <div class="col-md-4" id="verticalLine" >
 	    
 			<br> 
 	 
@@ -27,7 +27,7 @@
 	  <form action="submit.php" method="post">
 	  <h3><span class="glyphicon glyphicon-envelope"></span>   Contact Us:</h3>
 	  <br> 
-	  <input type="text" name="email" placeholder="Email" style="width:400px"/>
+	  <input type="text" name="email" placeholder="Email" style="width:350px"/>
 	  <br><br>
 	  <br>
 	  <textarea name="comment" rows="5" cols="30" placeholder="comments here" ></textarea>

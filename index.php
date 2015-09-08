@@ -32,7 +32,7 @@
 <?php include 'midbox.php' ;?>
 <br>
 </div>
-<div style="position:relative;width:1024px;background-color:#101010;color:grey;width:100%;">
+<div  class="footer" >
 <?php include 'footer.php';?>
 
 </div>
