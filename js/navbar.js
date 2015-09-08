@@ -2,13 +2,13 @@ $(document).ready(function(){
 	$(window).scroll(function(){
 		var position_top=$(document).scrollTop();
 		if(position_top>=200){
-			$('.place').addClass('navbar-fixed');
-			$('.place').removeClass('position');
-			$('.width12').css('width','80%');
+			$('.navbar navbar-inverse').addClass('navbar navbar-inverse navbar-fixed-top');
+			$('.place').removeClass('navbar navbar-inverse');
+			
 		}else if(position_top<200){
-			$('.place').removeClass('navbar-fixed');
-			$('.place').addClass('position');
-			$('.width12').css('width','100%');
+			$('.navbar navbar-inverse').removeClass('navbar navbar-inverse navbar-fixed-top');
+			$('.navbar navbar-inverse').addClass('navbar navbar-inverse');
+			
 		}
 	} );
 	 $(".button-collapse").sideNav();
