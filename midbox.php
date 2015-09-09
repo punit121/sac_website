@@ -1,5 +1,5 @@
 
- <div class="container" >
+ <div class="row" >
 	 <div class="col-sm-9" >
 	 <h2>About Us</h2>
 	 <hr>
@@ -11,7 +11,7 @@
 	   <h3>Testimonials</h3>
          	<marquee behavior="scroll" scrolldelay="250" height="250px" direction="up">Sundar Pichai to become Google CEO<br><br>
 			IIT to set up centre of excellence in manufacturing<br><br>
-			IIT Kharagpur Law School Signs MoU with GWU, Vin Gupta Funds Exchange<br><br>
+			IIT Kharagpur Law School Signs MoU with GWU, Vinod Gupta Funds Exchange<br><br>
 			Prof K N Tiwari bags Rafi Ahmed Kidwai Award for Outstanding Research in Agricultural Sciences<br><br>
 			IIT Kharagpur Announces Distinguished Alumnus Awards 2015Teachers Receiving Top Teaching Feedback Responses </marquee>
 	  </div>

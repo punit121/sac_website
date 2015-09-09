@@ -5,7 +5,7 @@
 	    
 			<br> 
 	 
-		 <div id="googleMap" style="width:350px;height:240px;float:left;"></div>
+		 <div id="googleMap" style="width:350px;height:250px;float:left;"></div>
 		  
 		  
 		  
@@ -34,7 +34,7 @@
 	  <textarea name="comment" rows="5" cols="30" placeholder="comments here" ></textarea>
 	  <br><br>
 	  
-	  <input type="submit" class="btn btn-info" value="submit">
+	  <input type="submit" class="btn btn-info" value="submit"/>
 	  
 	  </form>
 	  

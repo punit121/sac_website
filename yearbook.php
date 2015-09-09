@@ -5,6 +5,7 @@
 <?php include 'css_scripts.php';?>
 </head>
 <body>
+<div class="container">
 <?php include 'navbar.php';?>
 
 <br><br>
@@ -41,6 +42,6 @@
   })();
 </script>
 <?php include 'footer.php';?>
-
+</div>
 </body>
 </html>

@@ -9,22 +9,25 @@
 <body >        
 
 
-<div class="container"><br>
+<div class="container">
+
+<br>
 	<img src="http://placehold.it/100x100" style="float:left"/>
-			
+
+	
 			<h1 style="text-align:center;font-family:'gill sans MT',arial,sans-serif;">STUDENTS' ALUMNI CELL</h1><br><br>
 <?php include 'navbar.php' ;?>
 	<br>
 		
 					
-	<br
+	<br>
 
 <?php include 'slider.php';?> 
 <br>
-<h3>What Does A-cell Do</h3>
+<h2 style="text-align:center;">What Does A-cell Do</h2>
 <?php include 'column3.php';?>
 
-<h3>Latest Works</h3><br>
+<h2 style="text-align:center;">Latest Works</h2><br>
 
 <?php include 'column4.php' ;?>
 

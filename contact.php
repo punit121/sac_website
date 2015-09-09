@@ -6,11 +6,12 @@
 <body>
 
   
-	<?php include 'navbar.php';?>
+	
 	<br>
 	<div class="container demo-3">
            
-
+		<?php include 'navbar.php';?>
+		
             <header align="center" style="margin-top:75px;">
             <h1>Students' Alumni Cell</h1>
 
