@@ -1,17 +1,18 @@
+<div class="footer">
 
-<div class="row"  >
+<div class="row">
 	 <div class="col-md-4" id="verticalLine" >
 	    
 			<br> 
 	 
-		 <div id="googleMap" style="width:350px;height:250px;float:left;"></div>
+		 <div id="googleMap" style="width:350px;height:240px;float:left;"></div>
 		  
 		  
 		  
 	</div>
 		  
 	<div class="col-md-4" style="text-align:center;">
-			 <b><br>
+			 <b><br><br><br><br>
 		  Office of Alumni Affairs & International Relations,<br>
 		  Indian Institute of Technology,<br>
 		  Kharagpur<br>
@@ -39,4 +40,5 @@
 	  
 	  
 	  </div>
+</div>
 </div>

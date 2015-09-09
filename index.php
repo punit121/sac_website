@@ -9,7 +9,7 @@
 <body >        
 
 
-<div class="container">
+<div class="container"><br>
 	<img src="http://placehold.it/100x100" style="float:left"/>
 			
 			<h1 style="text-align:center;font-family:'gill sans MT',arial,sans-serif;">STUDENTS' ALUMNI CELL</h1><br><br>
@@ -31,9 +31,10 @@
 <br>
 <?php include 'midbox.php' ;?>
 <br>
-</div>
-<div  class="footer" >
+
+
 <?php include 'footer.php';?>
+
 
 </div>
  </body>
