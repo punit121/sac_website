@@ -1,5 +1,5 @@
 
-<div class="container">
+<div class="row">
    <div  class="col-sm-4" >
 			<div  style="padding:10px;text-align:center;">
 			<h3>For Students</h3>
