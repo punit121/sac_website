@@ -12,7 +12,7 @@
 	<div class="container">
 
 	<br>
-	<div  style="position:fixed;right:10px;">	<?php include 'links.php';?></div>
+	<div  style="position:absolute;right:10px;">	<?php include 'links.php';?></div>
 	<img src="http://placehold.it/100x100" style="float:left"/>
 
 	
