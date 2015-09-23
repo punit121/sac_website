@@ -28,10 +28,10 @@
 	  <form action="submit.php" method="post">
 	  <h3><span class="glyphicon glyphicon-envelope"></span>   Contact Us:</h3>
 	  <br> 
-	  <input type="text" name="email" placeholder="Email" style="width:350px"/>
+	  <input type="text" name="email" placeholder="Email" style="width:300px"/>
 	  <br><br>
 	  <br>
-	  <textarea name="comment" rows="5" cols="30" placeholder="comments here" ></textarea>
+	  <textarea name="comment" rows="5" cols="40" placeholder="comments here" ></textarea>
 	  <br><br>
 	  
 	  <input type="submit" class="btn btn-info" value="submit"/>

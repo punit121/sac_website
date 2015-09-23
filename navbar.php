@@ -22,7 +22,7 @@
                     <li><a href="http://www.mentorship.iitkgp.ernet.in/mainpage/index" target="_blank">MENTORSHIP PROGRAM</a></li>
                      <li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PUBLICATIONS<span class="caret"></span></a>
 					 <ul class="dropdown-menu">
-						<li><a href="yearbook.php" target="_blank">Yearbook</a></li>
+						<li><a href="#" target="_blank">Yearbook</a></li>
 						<li><a href="#" target="_blank">Yearnings of Yore</a></li>
 						<li><a href="#" target="_blank">Annual Alumni report</a></li>
 						<li><a href="#" target="_blank">xyz</a></li>
