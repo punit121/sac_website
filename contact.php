@@ -7,7 +7,7 @@
 
   
 	
-	<br>
+	<br><div style="position:absolute;right:10px;">	<?php include 'links.php';?></div><br><br><br>
 	<div class="container demo-3">
            
 		<?php include 'navbar.php';?>

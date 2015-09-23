@@ -11,11 +11,13 @@
 
 <div class="container">
 
-<br>
+<br> <div  style="position:fixed;right:10px;">	<?php include 'links.php';?></div>
 	<img src="http://placehold.it/100x100" style="float:left"/>
 
 	
-			<h1 style="text-align:center;font-family:'gill sans MT',arial,sans-serif;">STUDENTS' ALUMNI CELL</h1><br><br>
+			<h1 style="text-align:center;font-family:'gill sans MT',arial,sans-serif;">STUDENTS' ALUMNI CELL</h1>
+		
+			<br><br>
 <?php include 'navbar.php' ;?>
 	<br>
 		

@@ -6,6 +6,7 @@
 </head>
 <body>
 <div class="container">
+<div style="position:absolute;right:10px;">	<?php include 'links.php';?></div><br><br>
 <?php include 'navbar.php';?>
 
 <br><br>
