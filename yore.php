@@ -13,6 +13,10 @@
 	
 	<br><br>	
 	<?php include 'navbar.php' ;?>
+	<div class="row">
+		<img src="http://placehold.it/800x400">
+	<br><br>
+	</div>
 	<div class="row" style="text-align:center">
 	<h2 >YEARNINGS OF YORE</h2>
 		<p>
