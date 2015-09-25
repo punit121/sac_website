@@ -60,24 +60,25 @@
 		<img src="http://placehold.it/200x200" >
 		</div>
 	</div><br><br>
-	<div class="row">
+	<div class="row" style="position:relative;left:30px;">
 		<div class="col-md-4">
 		<img src="http://placehold.it/400x200" >
 		<img src="http://placehold.it/400x200" >
 		</div>
 		<div class="col-md-8">
-		<img src="http://placehold.it/800x400" >
+		<img src="http://placehold.it/600x400" >
 		</div>
 	</div><br><br>
-		<div class="row">
+		<div class="row" style="position:relative;right:50px;">
 		<div class="col-md-8">
-		<img src="http://placehold.it/800x400" >
+		<img src="http://placehold.it/600x400" >
 		</div>
 		<div class="col-md-4">
 		<img src="http://placehold.it/400x200" >
 		<img src="http://placehold.it/400x200" >
 		
 		</div>
+	
 	</div>
 	<br><br><br><br><br><br>
 	<?php include 'footer.php'; ?>
