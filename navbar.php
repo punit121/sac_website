@@ -23,7 +23,7 @@
                      <li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PUBLICATIONS<span class="caret"></span></a>
 					 <ul class="dropdown-menu">
 						<li><a href="#" target="_blank">Yearbook</a></li>
-						<li><a href="#" target="_blank">Yearnings of Yore</a></li>
+						<li><a href="yore.php" target="_blank">Yearnings of Yore</a></li>
 						<li><a href="#" target="_blank">Annual Alumni report</a></li>
 						<li><a href="#" target="_blank">xyz</a></li>
 					 </ul>
