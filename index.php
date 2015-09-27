@@ -13,7 +13,7 @@
 
 	<br>
 	<div  style="position:absolute;right:180px;">	<?php include 'links.php';?></div>
-	<img src="http://placehold.it/100x100" style="float:left"/>
+	<img src="img/logo.jpg" style="float:left"/>
 
 	
 			<h1 style="text-align:center" id="acell">STUDENTS' ALUMNI CELL</h1>

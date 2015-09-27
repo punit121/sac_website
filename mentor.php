@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="container">
-		<div class="row" style="position:absolute;right:10px;">	
+		<div class="row" style="position:absolute;right:180px;">	
 	<?php include 'links.php';?>
 	
 	</div>
@@ -19,7 +19,7 @@
 		
 	<div class="container demo-3" style="padding:0px;margin:0px">
      <div class="col-sm-9" style="padding:0px;margin:0px">
-		<h1 style="font-style:Georgia;">Mentorship Programme</h1><hr>
+		<h1 style="font-style:Georgia;text-align:jstify;">Mentorship Programme</h1><hr>
 		The Student Alumni Mentorship programme was started in session 2010-11 by the Students’ Alumni Cell
 		as an initiative to create a platform for the exchange of ideas and experience between the alumni and 
 		the current students of IIT Kharagpur.

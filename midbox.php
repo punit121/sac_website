@@ -10,7 +10,7 @@
 </style>
  </head>
  <div class="row" >
-	 <div class="col-sm-9" >
+	 <div class="col-sm-9" style="text-align:justify;">
 	 <h2>About Us</h2>
 	 <hr>
 	 The Students' Alumni Cell, IIT Kharagpur is a voluntary student body working under the aegis of the Office of Alumni Affairs and International Relations. It strives to bridge the gap between IIT Kharagpur and its esteemed alumni community.

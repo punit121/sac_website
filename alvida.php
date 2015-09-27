@@ -7,7 +7,7 @@
 	
 	<body>
 	<div class="container">
-	<div class="row" style="position:absolute;right:10px;">	
+	<div class="row" style="position:absolute;right:180px;">	
 	<?php include 'links.php';?>
 	</div>
 	<br><br>	
@@ -34,7 +34,7 @@
 	<fieldset style="">
 	<form>
 	<input type="text" name="name" placeholder="Name" style="width:350px;border-radius:4px;border-width:3.5px;background-color:#383838;color:white;"/><br><br>
-	<textarea rows="17" cols="36" placeholder="Share your memory" style="border-radius:12px;border-width:3.5px;background-color:#383838;color:white;" ></textarea><br><br>
+	<textarea rows="12" cols="36" placeholder="Share your memory" style="border-radius:12px;border-width:3.5px;background-color:#383838;color:white;" ></textarea><br><br>
 	<input type="submit" name="submit" class="btn btn-success" >
 	</form>
 	</fieldset>

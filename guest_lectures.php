@@ -6,15 +6,17 @@
 	</head>
 	<body>
 		<div class="container">
+		<div  style="position:absolute;right:180px;">	<?php include 'links.php';?></div>	
 			<?php
 				include 'topheader.php';?>
 			<br>
-			<?php	
+			<?php
 				include 'css_include.php';
 				include 'navbar.php';
 				include 'metatags.php';
 			?>
 			<div class="mycontent">
+			
 				<div class="heading">
 					<h1>Guest Lectures</h1>
 				</div>
@@ -85,7 +87,7 @@
 				include 'js_include.php';
 			?>
 		</div>
-		<script type="text/javascript" src="guest_lectures.js"></script>
+		<script type="text/javascript" src="js/guest_lectures.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		
 	</body>
