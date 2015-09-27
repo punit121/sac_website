@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'barkentina 1';
+    src:url('../font/barkentina.otf');
+}
+
+body
+{
+font-family: 'barkentina 1';
+}
+
+p, div.container
+{
+font-family:'barkentina 1';
+font-size: 1.25em;
+}
+
+h1, h2
+{
+font-weight:bold;
+font-size:250%;
+}
+
+h2
+{
+font-weight:bold;
+font-size:200%;
+}
+
+h3
+{
+font-weight:bold;
+font-size:150%;
+}

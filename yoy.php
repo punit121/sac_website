@@ -2,7 +2,7 @@
 	<head>
 	<title>Students' Alumni Cell &middot; IIT Kharagpur</title>
 		<?php include 'metatags.php'; ?>
-		<?php include 'css_scripts.php';?>
+		<?php include 'css_include.php';?>
 	</head>
 	
 	<body>
@@ -85,7 +85,7 @@
 	
 	
 	<?php include 'footer.php';?>
-	<?php include 'script.php';?>
+	<?php include 'js_include.php';?>
 	
 	</div>
 </html>

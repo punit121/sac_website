@@ -5,7 +5,7 @@
 	    
 			<br> 
 	 
-		 <div id="googleMap" style="width:350px;height:250px;float:left;"></div>
+		 <div id="googleMap" style="width:350px;height:280px;float:left;"></div>
 		  
 		  
 		  
@@ -28,11 +28,11 @@
 	  <form action="submit.php" method="post">
 	  <h3><span class="glyphicon glyphicon-envelope"></span>   Contact Us:</h3>
 	  <br> 
-	  <input type="text" name="email" placeholder="Email" style="width:300px"/>
-	  <br><br>
+	  <input type="text" name="email" placeholder="Email" style="width:320px"/>
 	  <br>
-	  <textarea name="comment" rows="5" cols="40" placeholder="comments here" ></textarea>
-	  <br><br>
+	  <br>
+	  <textarea name="comment" rows="5" cols="35" placeholder="comments here" ></textarea>
+	  <br>
 	  
 	  <input type="submit" class="btn btn-info" value="submit"/>
 	  

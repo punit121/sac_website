@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 	<?php include 'metatags.php'; ?>
-  <?php include 'css_scripts.php';?>
+  <?php include 'css_include.php';?>
   
   
 </head>
@@ -222,7 +222,7 @@
       </div>
 	  <br><br><hr><br><br>
     <?php include 'footer.php'; ?>
-	<?php include 'script.php';?>
+	<?php include 'js_include.php';?>
 	</div>
   </div>
 	

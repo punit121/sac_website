@@ -3,7 +3,7 @@
 	<head> 
 		<title>Students' Alumni Cell &middot; IIT Kharagpur</title>
 		<?php include 'metatags.php'; ?>
-		<?php include 'css_scripts.php';?>
+		<?php include 'css_include.php';?>
 	</head>
 
 	<body >        
@@ -16,7 +16,7 @@
 	<img src="http://placehold.it/100x100" style="float:left"/>
 
 	
-			<h1 style="text-align:center;font-family:'gill sans MT',arial,sans-serif;">STUDENTS' ALUMNI CELL</h1>
+			<h1 style="text-align:center">STUDENTS' ALUMNI CELL</h1>
 		
 			<br><br>
 	<?php include 'navbar.php' ;?>
@@ -41,7 +41,7 @@
 
 	<?php include 'footer.php';?>
 
-	<?php include 'script.php';?>
+	<?php include 'js_include.php';?>
 	</div>
 	</body>
 </html>

@@ -2,7 +2,7 @@
 	<head>
 	<title>Students' Alumni Cell &middot; IIT Kharagpur</title>
 		<?php include 'metatags.php'; ?>
-		<?php include 'css_scripts.php';?>
+		<?php include 'css_include.php';?>
 	</head>
 	
 	<body>
@@ -60,29 +60,28 @@
 		<img src="http://placehold.it/200x200" >
 		</div>
 	</div><br><br>
-	<div class="row" style="position:relative;left:30px;">
+	<div class="row">
 		<div class="col-md-4">
 		<img src="http://placehold.it/400x200" >
 		<img src="http://placehold.it/400x200" >
 		</div>
 		<div class="col-md-8">
-		<img src="http://placehold.it/600x400" >
+		<img src="http://placehold.it/800x400" >
 		</div>
 	</div><br><br>
-		<div class="row" style="position:relative;right:50px;">
+		<div class="row">
 		<div class="col-md-8">
-		<img src="http://placehold.it/600x400" >
+		<img src="http://placehold.it/800x400" >
 		</div>
 		<div class="col-md-4">
 		<img src="http://placehold.it/400x200" >
 		<img src="http://placehold.it/400x200" >
 		
 		</div>
-	
 	</div>
 	<br><br><br><br><br><br>
 	<?php include 'footer.php'; ?>
-	<?php include 'script.php'; ?>
+	<?php include 'js_include.php'; ?>
 	</div>
 	</body>
 </html>

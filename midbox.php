@@ -8,8 +8,8 @@
      For any queries/information, do write to us: aao@hijli.iitkgp.ernet.in
 	 </div>
 	 <div class="col-sm-3">
-	   <h3>Testimonials</h3>
-         	<marquee behavior="scroll" scrolldelay="250" height="250px" direction="up">Sundar Pichai to become Google CEO<br><br>
+	   <h3>Testimonials</h3><br>
+         	<marquee behavior="scroll" scrolldelay="250" height="370px" direction="up">Sundar Pichai to become Google CEO<br><br>
 			IIT to set up centre of excellence in manufacturing<br><br>
 			IIT Kharagpur Law School Signs MoU with GWU, Vinod Gupta Funds Exchange<br><br>
 			Prof K N Tiwari bags Rafi Ahmed Kidwai Award for Outstanding Research in Agricultural Sciences<br><br>
