@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Guest Lectures</title>
-		
+		<link rel="stylesheet" href="css/guest_lectures.css">
 	</head>
 	<body>
 		<div class="container">
