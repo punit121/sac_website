@@ -18,7 +18,7 @@
 		
 	<div class="container demo-3" style="padding:0px;margin:0px">
      <div class="col-sm-9" style="padding:0px;margin:0px">
-		<h1 style="font-style:Georgia;">Mentorship Programme</h1><hr>
+		<h1 style="font-style:Georgia;">Mentorship Programme</h1><hr><p style="font-size:16px">
 		The Student Alumni Mentorship programme was started in session 2010-11 by the Students’ Alumni Cell
 		as an initiative to create a platform for the exchange of ideas and experience between the alumni and 
 		the current students of IIT Kharagpur.
@@ -29,7 +29,7 @@
 		Under this programme, we invite our alumni from across the world and from different fields to interact
 		with the students and help them build their network and gain new perspective on the possibilities open
 		to them after graduation.	
-		</div>
+		</p></div>
 	 <div class="col-sm-3"  style="padding:50px;">
 		<button type="button" class="btn btn-default">Apply</button><br>
 		<br>

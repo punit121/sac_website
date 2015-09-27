@@ -5,10 +5,13 @@ $(document).ready(function(){
 			$('.navbar').addClass('navbar-fixed-top');
 			$('.navbar').removeClass('');
 			
+			
+			
 		}else if(position_top<200){
 			$('.navbar ').removeClass('navbar-fixed-top');
 			$('.navbar ').addClass('navbar-inverse');
 			
+		 	
 		}
 	} );
 	

@@ -1,6 +1,11 @@
 <div class="navbar navbar-inverse " >
         
             <div class="navbar-header">
+              <a class="navbar-brand" href="#">
+                <img class="logo" >
+                
+                
+              </a>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -22,9 +27,9 @@
                     <li><a href="mentor.php" target="_blank">MENTORSHIP PROGRAM</a></li>
                      <li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PUBLICATIONS<span class="caret"></span></a>
 					 <ul class="dropdown-menu">
-						<li><a href="#" target="_blank">Yearbook</a></li>
-						<li><a href="yoy.php" target="_blank">Yearnings of Yore</a></li>
-						<li><a href="#" target="_blank">Annual Alumni report</a></li>
+						<li><a href="yearbook.php" target="_blank">Yearbook</a></li>
+						<li><a href="yore.php" target="_blank">Yearnings of Yore</a></li>
+						<li><a href="annualreport.php" target="_blank">Annual Alumni report</a></li>
 						<li><a href="#" target="_blank">xyz</a></li>
 					 </ul>
 					</li>
