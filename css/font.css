@@ -14,15 +14,18 @@ font-family:'barkentina 1';
 font-size: 1.25em;
 }
 
-h1, h2
+h1#acell   
 {
-font-weight:bold;
-font-size:250%;
+text-align:center;
+font-family:'Adobe Heiti Std R';
+font-size:275%;
+word-spacing:10px;
 }
 
 h2
 {
 font-weight:bold;
+word-spacing:10px;
 font-size:200%;
 }
 

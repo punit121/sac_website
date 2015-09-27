@@ -14,7 +14,7 @@
 	<br><br>	
 	<?php include 'navbar.php' ;?>
 	<div class="row">
-		<img src="http://placehold.it/800x400">
+		<img src="http://placehold.it/1000x250">
 	<br><br>
 	</div>
 	<div class="row" >
@@ -29,56 +29,47 @@
 	</div>
 	<br><br>
 	
-	<div class="row">
-		<div class="col-md-8">
-		<img src="http://placehold.it/800x400" >
-		</div>
-		<div class="col-md-4">
-		<img src="http://placehold.it/400x400" >
-		</div>
-	</div><br>
-	<div class="row">	
-		<div class="col-md-6">
-		<img src="http://placehold.it/600x200" >
-		<img src="http://placehold.it/600x200" >
-		</div>
-		<div class="col-md-6">
-		<img src="http://placehold.it/600x400" >
-		</div>
-	</div><br><br>
-	<div class="row">
-		<div class="col-md-3">
-		<img src="http://placehold.it/200x200" >
-		</div>
-		<div class="col-md-3">
-		<img src="http://placehold.it/200x200" >
-		</div>
-		<div class="col-md-3">
-		<img src="http://placehold.it/200x200" >
-		</div>
-		<div class="col-md-3">
-		<img src="http://placehold.it/200x200" >
-		</div>
-	</div><br><br>
-	<div class="row" style="position:relative;left:30px;">
-		<div class="col-md-4">
-		<img src="http://placehold.it/400x200" >
-		<img src="http://placehold.it/400x200" >
-		</div>
-		<div class="col-md-8">
-		<img src="http://placehold.it/600x400" >
-		</div>
-	</div><br><br>
-		<div class="row" style="position:relative;right:50px;">
-		<div class="col-md-8">
-		<img src="http://placehold.it/600x400" >
-		</div>
-		<div class="col-md-4">
-		<img src="http://placehold.it/400x200" >
-		<img src="http://placehold.it/400x200" >
-		
-		</div>
-	</div>
+		<table class="table table-condensed" style="text-align:center">
+			<thead>
+				<tr class="danger">
+					<td>Year</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			<tbody>
+				<tr class="active">
+					<td>2015</td>
+					<td><img src="http://placehold.it/200x250"></td>
+					<td><img src="http://placehold.it/200x250"></td>
+					<td><img src="http://placehold.it/200x250"></td>
+				</tr>
+				<tr class="active">
+					<td >2014</td>
+					<td><img src="http://placehold.it/200x250"></td>
+					<td><img src="http://placehold.it/200x250"></td>
+					<td><img src="http://placehold.it/200x250"></td>
+				</tr>
+				<tr class="warning">
+					<td>2013</td>
+					<td><img src="http://placehold.it/200x250"></td>
+					<td><img src="http://placehold.it/200x250"></td>
+					<td><img src="http://placehold.it/200x250"></td>
+				</tr>
+				<tr class="active">
+					<td>2012</td>
+					<td><img src="http://placehold.it/200x250"></td>
+					<td><img src="http://placehold.it/200x250"></td>
+					<td><img src="http://placehold.it/200x250"></td>
+				</tr>
+				<tr class="info">
+					<td>2011</td>
+					<td><img src="http://placehold.it/200x250"></td>
+					<td><img src="http://placehold.it/200x250"></td>
+					<td><img src="http://placehold.it/200x250"></td>
+				</tr>
+			</tbody>
+		</table>
 	<br><br>
 	
 	

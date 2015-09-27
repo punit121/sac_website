@@ -1,7 +1,8 @@
-p{ font-family:exomedium; font-size:20px;}h3{align:center;}html, body {  height: 100%;  width: 100%;  padding: 0;  margin: 0;}#big_wrapper{position:relative;margin-top:5px; padding:15px;}
+p{ font-family:exomedium; font-size:20px;}h3{align:center;}html, body {  height: 100%;  width: 100%;  padding: 0;  margin: 0;background:-webkit-linear-gradient(#333333,#EBEBEB) fixed;background:-moz-linear-gradient(#333333,#EBEBEB) fixed;background:linear-gradient(#333333,#EBEBEB) fixed;background-repeat:no-repeat;background-size:cover"}#big_wrapper{position:relative;margin-top:5px; padding:15px;}
 #sty{font-family: exomedium;font-size: 1.5rem;}
 
 .footer{
 
 position:relative;width:1136px;background-color:#101010;color:grey;padding:8px;
 }
+.container{	background-color:white;	padding-left:20px;	padding-right:20px;}
