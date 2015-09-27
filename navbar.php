@@ -19,7 +19,7 @@
                      <li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS<span class="caret"></span></a>
 					 <ul class="dropdown-menu">
 						<li><a href="meet.php" target="_blank">ANNUAL ALUMNI MEET</a></li>
-						<li><a href="#" target="_blank">GUEST LECTURES</a></li>
+						<li><a href="guest_lectures.php" target="_blank">GUEST LECTURES</a></li>
 						<li><a href="leadership_summit.php" target="_blank">LEADERSHIP SUMMIT</a></li>
 						<li><a href="alvida.php" target="_blank">ALVIDA</a></li>
 					 </ul>
@@ -28,7 +28,7 @@
                      <li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PUBLICATIONS<span class="caret"></span></a>
 					 <ul class="dropdown-menu">
 						<li><a href="yearbook.php" target="_blank">Yearbook</a></li>
-						<li><a href="yore.php" target="_blank">Yearnings of Yore</a></li>
+						<li><a href="yoy.php" target="_blank">Yearnings of Yore</a></li>
 						<li><a href="annualreport.php" target="_blank">Annual Alumni report</a></li>
 						<li><a href="#" target="_blank">xyz</a></li>
 					 </ul>

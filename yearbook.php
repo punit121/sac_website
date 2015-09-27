@@ -6,7 +6,8 @@
 <body>
 
 
-	<div class="container"><?php include 'navbar.php'; ?> 
+	<div class="container">
+	<?php include 'navbar.php'; ?> 
 		<h2 style="text-align:center">What is a YearBook?</h2>
 		<h4 style="text-align:center">Over the course of past few years, the Students' Alumni Cell has emerged as a key organ of the Office of Alumni Affairs and International Relations in executing its yearlong events and activities. The Students' Alumni Cell continuously endeavours to strengthen the relations of the alumni of this institute and their alma mater. Formed as and operating under the Dean, Alumni Affairs and International Relations, the Students' Alumni Cell has been instrumental in organising the Annual Alumni Meet, publishing the quarterly alumni newsletter.</h4>
 		<h5 style="text-align:center">CLICK the COVER to DOWNLOAD THE pdf Copy</h5>

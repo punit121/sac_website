@@ -2,12 +2,14 @@
 <html>
 	<head>
 		<title>Guest Lectures</title>
-		<link rel="stylesheet" href="guest_lectures.css">
+		
 	</head>
 	<body>
 		<div class="container">
 			<?php
-				include 'topheader.php';
+				include 'topheader.php';?>
+			<br>
+			<?php	
 				include 'css_include.php';
 				include 'navbar.php';
 				include 'metatags.php';
