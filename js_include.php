@@ -1,12 +1,8 @@
-
-
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 <script src="//maps.googleapis.com/maps/api/js"></script>
-
 <script src="js/js-image-slider.js"></script>
-
 <script src="js/navbar.js"></script>
 <script>
 			function initMap() {

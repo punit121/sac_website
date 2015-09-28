@@ -6,7 +6,7 @@ $(document).ready(function(){
 			$('.navbar').removeClass('');
 			$('.nav').removeClass('navbar-left');
 			$('.nav ').addClass('navbar-right');
-			 $(".logo").attr("src", "http://placehold.it/60x60");
+			 $(".logo").attr("src", "img/kgp.png");
 			
 			
 		}else if(position_top<200){
