@@ -3,10 +3,11 @@ $(document).ready(function(){
 		var position_top=$(document).scrollTop();
 		if(position_top>=200){
 			$('.navbar').addClass('navbar-fixed-top');
-			$('.navbar').removeClass('navbar-inverse');
+			$('.navbar').removeClass('');
 			$('.nav').removeClass('navbar-left');
 			$('.nav ').addClass('navbar-right');
 			 $(".logo").attr("src", "http://placehold.it/60x60");
+			
 			
 		}else if(position_top<200){
 			$('.navbar ').removeClass('navbar-fixed-top');

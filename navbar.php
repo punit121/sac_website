@@ -2,7 +2,7 @@
         
             <div class="navbar-header">
               <a class="navbar-brand" href="#">
-                <img class="logo" >
+                <img class="logo" style="position:relative;top:-20px;">
                 
                 
               </a>
