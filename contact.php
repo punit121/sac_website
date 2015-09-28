@@ -9,13 +9,14 @@
 
  
 	
-	<div style="position:absolute;right:10px;">	<?php include 'links.php';?></div><br><br><br>
 	
            
 		
 		 <div class="container-fluid">
-            
-		<div class="container" align="center">
+    <div class="container" align="center">
+		    <br>
+	<div style="position:absolute;right:180px;">	<?php include 'links.php';?></div><br><br><br>    
+		
 			<?php include 'navbar.php';?>
       <h2>Students' Alumni Cell</h2>
 	  <br>

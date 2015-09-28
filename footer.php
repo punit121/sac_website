@@ -11,16 +11,13 @@
 		  
 	</div>
 		  
-	<div class="col-md-4" style="text-align:center;">
-			 <b><br><br><br><br>
-		  Office of Alumni Affairs & International Relations,<br>
-		  Indian Institute of Technology,<br>
-		  Kharagpur<br>
+	<div class="col-md-4" style="text-align:justify; font-size:90%; word-spacing:3px; color:white;">
+			<br><br><br><br>
+		  Office of Alumni Affairs &amp; International Relations,<br>
+		  Indian Institute of Technology, Kharagpur<br>
 		  Pin-721302, West Bengal, India<br>
-		  Ph: 03222-282236; <br>
+		  Ph: 03222-282236 <br>
 		  Email: alumni@hijli.iitkgp.ernet.in
-		 
-		  </b>
 	</div>
 	  
 	 <div class="col-md-4" style="float:left">

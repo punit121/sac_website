@@ -8,7 +8,7 @@
     <body >        
     <div class="container">
     <br>
-    <div class="row" style="position:absolute;right:10px;">    <?php include 'links.php';?></div><br><br>
+    <div class="row" style="position:absolute;right:180px;">    <?php include 'links.php';?></div><br><br>
     <?php include 'navbar.php' ;?>
     <div class="row">
     <h2 style="text-align:center;">
@@ -57,7 +57,7 @@
 <div class="row">
     <div class="col-md-8" style="text-align:left ; margin-left:40px">
         <h1>Annual Alumni Meet 2016</h1>
-        <blockquote><h3>XX Jan 2016 - XX Jan 2016 </h3><br>
+        <blockquote><h3>15 Jan 2016 - 17 Jan 2016 </h3><br>
         <h3> BATCHES INVITED </h3>
         In quis dapibus urna, ac cursus enim.<br><br>
         <h3><a href="#"> INVITATION BROCHURE </a></h3>

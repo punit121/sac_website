@@ -1,3 +1,13 @@
+<head>
+<style type="text/css">
+p{
+	text-align: justify;
+}
+
+
+</style>
+</head>
+
 
 <div class="row">
    <div  class="col-sm-4" >
