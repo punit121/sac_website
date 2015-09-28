@@ -42,6 +42,7 @@
 	<?php include 'footer.php';?>
 
 	<?php include 'js_include.php';?>
+	
 	</div>
 	</body>
 </html>
