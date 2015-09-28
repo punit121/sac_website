@@ -1,4 +1,4 @@
-<div class="navbar navbar-inverse " >
+<div class="navbar navbar-inverse nav_color" >
         
             <div class="navbar-header">
               <a class="navbar-brand" href="#">

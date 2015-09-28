@@ -1,7 +1,1 @@
-p{ font-family:exomedium; font-size:20px;}h3{align:center;}html, body {  height: 100%;  width: 100%;  padding: 0;  margin: 0;}#big_wrapper{position:relative;margin-top:5px; padding:15px;}
-#sty{font-family: exomedium;font-size: 1.5rem;}
-
-.footer{
-
-position:relative;width:1136px;background-color:#101010;color:grey;padding:8px;
-}
+p{ font-family:exomedium; font-size:20px;}h3{align:center;}html, body {  height: 100%;  width: 100%;  padding: 0;  margin: 0;}#big_wrapper{position:relative;margin-top:5px; padding:15px;}#sty{font-family: exomedium;font-size: 1.5rem;}.footer{position:relative;width:1136px;background-color:#101010;color:grey;padding:8px;}.nav_color{	background: white;	box-shadow: 2px 2px 3px #999999,-2px -2px 1px #999999;}
