@@ -10,7 +10,7 @@
 	<div class="row" style="position:absolute;right:180px;">	
 	<?php include 'links.php';?>
 	</div>
-	<br><br>	
+	<br><br><br>	
 	<?php include 'navbar.php' ;?>
 	<br>
 	<h2 style="text-align:center;">
@@ -31,13 +31,13 @@
 	</div>
 	<div class="col-md-4">
 	<h2>Share Your Memory</h2><hr>
-	<fieldset style="">
+	<br><br>
 	<form>
-	<input type="text" name="name" placeholder="Name" style="width:350px;border-radius:4px;border-width:3.5px;background-color:#383838;color:white;"/><br><br>
+	<input type="text" name="email" placeholder="Email" style="width:350px;border-radius:4px;border-width:3.5px;background-color:#383838;color:white;"/><br><br>
 	<textarea rows="12" cols="36" placeholder="Share your memory" style="border-radius:12px;border-width:3.5px;background-color:#383838;color:white;" ></textarea><br><br>
 	<input type="submit" name="submit" class="btn btn-success" >
 	</form>
-	</fieldset>
+	
 	</div>
 	</div>
 	<h2 style="text-align:center;">MEMORIES</h2><br><br>
