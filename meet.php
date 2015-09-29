@@ -8,7 +8,7 @@
     <body >        
     <div class="container">
     <br>
-    <div class="row" style="position:absolute;right:180px;">    <?php include 'links.php';?></div><br><br>
+    <?php include 'topheader.php'; ?><br><br>
     <?php include 'navbar.php' ;?>
     <div class="row">
     <h2 style="text-align:center;">

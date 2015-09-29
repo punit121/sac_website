@@ -12,13 +12,7 @@
 	<div class="container">
 
 	<br>
-	<img src="img/logo.jpg" style="float:left"/>
-	<div  style="position:absolute;right:180px;">	<?php include 'links.php';?></div>
-	<br>
-
-	
-			<h1 style="text-align:center" id="acell">STUDENTS' ALUMNI CELL</h1>
-		
+	<?php include 'topheader.php';?>
 			<br><br>
 	<?php include 'navbar.php' ;?>
 	<br>

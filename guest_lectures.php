@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<div class="container">
-		<div  style="position:absolute;right:180px;">	<?php include 'links.php';?></div>	
+		<br>
 			<?php
 				include 'topheader.php';?>
 			<br>
@@ -14,7 +14,7 @@
 				include 'css_include.php';
 				include 'navbar.php';
 				include 'metatags.php';
-			?>
+			?><br><br>
 			<div class="mycontent">
 			
 				<div class="heading">
