@@ -30,6 +30,7 @@
 			    </div>
 				
 			</div>
+			<?php include 'spons-slider.php'; ?>
 		<?php include 'footer.php';?>
 		<?php include 'script.php';?>
 

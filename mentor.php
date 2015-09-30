@@ -14,7 +14,7 @@
 			<div >
 				<div  style="padding:10px;margin:10px;" >
 					<a href="http://www.webteam.iitkgp.ernet.in/scg/" style="text-decoration:none;"><h2>Mentorship Programme</h2></a>
-										<h5>The Student Alumni Mentorship programme was started in session 2010-11 by the Students’ Alumni Cell
+										<p>The Student Alumni Mentorship programme was started in session 2010-11 by the Students’ Alumni Cell
 					as an initiative to create a platform for the exchange of ideas and experience between the alumni and 
 					the current students of IIT Kharagpur.
 					With an ocean of possibilities available, students often find it difficult to decide their way out
@@ -27,10 +27,11 @@
 					<br><br><br><br><br><br><br><br><br>    For more information visit
                    <a href="http://www.mentorship.iitkgp.ernet.in/mainpage/index" style="text-decoration:none;text-align:center;"> http://www.mentorship.iitkgp.ernet.in/mainpage/index</a>
 				   <br>
-					</h5><br><br><br><br><br><br><br><br>
+					</p><br><br><br><br><br><br><br><br>
 			    </div>
 				
 			</div>
+		<?php include 'spons-slider.php'; ?>	
 		<?php include 'footer.php';?>
 		<?php include 'js_include.php';?>
 

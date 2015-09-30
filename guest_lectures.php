@@ -82,7 +82,9 @@
 				</div>
 				<hr style="border:1px solid grey">
 			</div>
+			<?php include 'spons-slider.php'; ?>
 			<?php
+				
 				include 'footer.php';
 				include 'js_include.php';
 			?>

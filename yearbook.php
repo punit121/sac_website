@@ -55,7 +55,7 @@
 		</table><?php include 'footer.php';?>
 	</div>
 
-
+<?php include 'spons-slider.php'; ?>
 <?php include 'js_include.php'; ?>
 </body>
 </html>

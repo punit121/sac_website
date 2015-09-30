@@ -41,7 +41,7 @@
 	<form>
 	<input type="text" name="email" placeholder="Email" style="width:350px;border-radius:4px;border-width:3.5px;background-color:#383838;color:white;"/><br><br>
 	<textarea rows="12" cols="36" placeholder="Share your memory" style="border-radius:12px;border-width:3.5px;background-color:#383838;color:white;" ></textarea><br><br>
-	<input type="submit" name="submit" class="btn btn-success" >
+	<input type="submit" name="submit" class="btn btn-success" style="width:100%;"/>
 	</form>
 	
 	</div>
@@ -70,21 +70,21 @@
       </div>
 
       <div class="item">
-        <img src="img/7.jpg" alt="img2" width="460" height="345" >
+        <img src="img/2.jpg" alt="img2" width="460" height="345" >
         <div class="carousel-caption">
           <h3>img2</h3>
         </div>
       </div>
     
       <div class="item">
-        <img src="img/8.jpg" alt="img3" width="460" height="345" >
+        <img src="img/3.jpg" alt="img3" width="460" height="345" >
         <div class="carousel-caption">
           <h3>img3</h3>
         </div>
       </div>
 
       <div class="item">
-        <img src="img/1.jpg" alt="img4"  width="460" height="345">
+        <img src="img/4.jpg" alt="img4"  width="460" height="345">
         <div class="carousel-caption">
           <h3>img4</h3>
         </div>
@@ -109,31 +109,22 @@
 
       <div class="item active">
         <img src="img/1.jpg" alt="img1" width="400" height="250" >
-        <div class="carousel-caption">
-          <h3>img1</h3>
-          
-        </div>
+       
       </div>
 
       <div class="item">
-        <img src="img/7.jpg" alt="img2" width="400" height="250" >
-        <div class="carousel-caption">
-          <h3>img2</h3>
-        </div>
+        <img src="img/2.jpg" alt="img2" width="400" height="250" >
+        
       </div>
     
       <div class="item">
-        <img src="img/8.jpg" alt="img3" width="400" height="250" >
-        <div class="carousel-caption">
-          <h3>img3</h3>
-        </div>
+        <img src="img/3.jpg" alt="img3" width="400" height="250" >
+        
       </div>
 
       <div class="item">
         <img src="img/1.jpg" alt="img4"  width="400" height="250">
-        <div class="carousel-caption">
-          <h3>img4</h3>
-        </div>
+        
       </div>
   
     </div>
@@ -160,31 +151,22 @@
 
       <div class="item active">
         <img src="img/1.jpg" alt="img1" width="400" height="250" >
-        <div class="carousel-caption">
-          <h3>img1</h3>
-          
-        </div>
+        
       </div>
 
       <div class="item">
-        <img src="img/7.jpg" alt="img2" width="400" height="250" >
-        <div class="carousel-caption">
-          <h3>img2</h3>
-        </div>
+        <img src="img/2.jpg" alt="img2" width="400" height="250" >
+        
       </div>
     
       <div class="item">
-        <img src="img/8.jpg" alt="img3" width="400" height="250" >
-        <div class="carousel-caption">
-          <h3>img3</h3>
-        </div>
+        <img src="img/3.jpg" alt="img3" width="400" height="250" >
+       
       </div>
 
       <div class="item">
-        <img src="img/1.jpg" alt="img4"  width="400" height="250">
-        <div class="carousel-caption">
-          <h3>img4</h3>
-        </div>
+        <img src="img/4.jpg" alt="img4"  width="400" height="250">
+      
       </div>
   
     </div>
@@ -196,6 +178,7 @@
 	</div><br><br>
 	<br>
 	<br><br><br><br><br><br>
+	<?php include 'spons-slider.php'; ?>
 	<?php include 'footer.php'; ?>
 	<?php include 'js_include.php'; ?>
 	</div>

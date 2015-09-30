@@ -18,8 +18,8 @@
 	<h2 style="text-align:center;">
 	LEADERSHIP SUMMIT
 	</h2><br>
-	<div class="row" style="position:relative;left:10px;">
-	<img src="http://placehold.it/1000x250" >
+	<div class="row">
+	<img src="http://placehold.it/1100x300" >
 	</div>
 	<br><br>
 	<div class="row">
@@ -117,6 +117,7 @@
 	
 	</div>
 <br><br>
+	<?php include 'spons-slider.php'; ?>
 	<?php include 'footer.php'; ?>
 	<?php include 'js_include.php'; ?>
 	</div>
