@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 
-<link rel="stylesheet" type="text/css" href="css/demo.css" />
+
 <style type="text/css">
 
 div#wn { 
@@ -38,8 +38,8 @@ if ( DYN_WEB.Scroll_Div.isSupported() ) {
 </script>
 </head>
 <body>
-
-<h1 style="position:relative;left:500px;">SPONSORS</h1>
+<div class="row">
+<h1 style="text-align:center;">SPONSORS</h1>
 
 
 <div id="wn">
@@ -84,7 +84,7 @@ if ( DYN_WEB.Scroll_Div.isSupported() ) {
 
 
 
-
+</div>
 
 
 
