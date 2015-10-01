@@ -9,11 +9,9 @@
 	<div class="container">
 	<?php include 'topheader.php';?>	
 	<?php include 'navbar.php' ;?>
-	<div class="row">
-		<img src="http://placehold.it/1000x250">
-	</div>
-	<div class="row" >
-	<h2 style="text-align:center">YEARNINGS OF YORE</h2>
+		<h2 style="text-align:center">YEARNINGS OF YORE</h2>
+
+		<img src="http://placehold.it/1150x300">
 	<div class="col-md-12">
 		<p style="font-size:20px;text-align:justify;">
 		The Students' Alumni Cell, IIT Kharagpur is a voluntary student body working under the aegis of the Office of Alumni Affairs and International Relations. It strives to bridge the gap between IIT Kharagpur and its esteemed alumni community.
@@ -21,7 +19,7 @@
 		For any queries/information, do write to us: aao@hijli.iitkgp.ernet.in
 	</p>
 	</div>	
-	</div>
+	
 	
 		<table class="table table-condensed" style="text-align:center">
 			<thead>

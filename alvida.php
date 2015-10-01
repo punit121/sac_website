@@ -19,7 +19,7 @@
 	<h2 style="text-align:center;">
 	ALVIDA
 	</h2>
-	<?php include 'internal slider.php'?><br><br><br><br>
+	<?php include 'internal slider.php'?>
 	<div class="row">
 	<div class="col-md-8"  style="text-align:justify">
 	<h2 style="font-style:Exomedium">What is Alvida</h2><hr>

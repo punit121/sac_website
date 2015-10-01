@@ -23,16 +23,11 @@
 					<img src="http://placehold.it/1150x300" >
 				</div>
 				<div class="main_content">
-					Department of Instrumentation Engineering organized alumni meet on 12th April, 2014,
-					which facilitated a warm interaction between the alumni, current students and faculty of the
-					department.
-					Alumni meet was inaugurated by the chief guest Dr. S.S.Sundararajan Co-founder and
-					Director of “Ayushman health care Pvt. Ltd." Mr. Narendra Bari Alumni of the 1st batch from
-					Honeywell Pune and Prof. P. M. Kanjalkar Head of Department were present on the dais.
-					The occasion was graced by more than 50 alumni and their family members ranging across
-					various batches. Speaking on the occasion, honourable chief guest highlighted the power of
-					knowledge and social awareness for the socio-economic growth of individuals and peers
-					inspired the gathering in true sense.
+				Continuing with its yearlong series of Guest Lectures by eminent alumni, the Students’ Alumni Ce
+				ll recently hostel Mr. Veerendra Jaitley, an alumnus of the ECE department, 1979. He delivered a motivational lecture with the theme ‘We Can, We Can’. 
+				The speech was received positively both by the student and the faculty alike. A week before that,
+				Mr. Anshuman Mishra, an alumnus of the Patel Hall delivered a lecture on Marketing.
+				This event was conducted in association with the Marketing and Advertising Club, Vinod Gupta School of Management.
 				</div>
 				<hr style="border:1px solid grey">
 				<div class="our_speakers">

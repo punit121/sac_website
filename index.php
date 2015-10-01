@@ -15,11 +15,11 @@
 	<div id="slide">
 		<div id="sliderFrame">
 			<div id="slider">
-				<img src="img/1.jpg" alt="zero"/>
-				<img src="img/2.jpg" alt="first"/>
-				<center><img src="img/3.jpg" alt="second"/></center>
-				<img src="img/4.jpg" alt="third"/>
-				<img src="img/1.jpg" alt="fourth"/>
+				<img src="img/1.jpg" />
+				<img src="img/2.jpg"/>
+				<center><img src="img/3.jpg" /></center>
+				<img src="img/4.jpg" />
+				<img src="img/1.jpg" />
 			</div>
 		</div>
 	</div>
