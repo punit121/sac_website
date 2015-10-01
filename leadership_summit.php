@@ -10,18 +10,17 @@
 	<body>
 	<div class="container">
 	
-	<br>
+	
 	<?php include 'topheader.php';?>
-	<br><br>	
 	<?php include 'navbar.php' ;?>
-	<br>
+	
 	<h2 style="text-align:center;">
 	LEADERSHIP SUMMIT
-	</h2><br>
+	</h2>
 	<div class="row">
-	<img src="http://placehold.it/1100x300" >
+	<img src="http://placehold.it/1150x300" >
 	</div>
-	<br><br>
+	
 	<div class="row">
 	<div class="col-lg-12 text-center blueLine"><h2>Our Speakers</h2></div>
 	</div>
@@ -105,7 +104,6 @@
                 </div>
             </div>
 </div>
-<br><br>
 	<div class="row">
 		<h2 style="text-align:justify;">MORE ABOUT IT </h2>
 		<p style="padding:5px;text-align:justify;">
@@ -116,7 +114,6 @@
 		</p>	
 	
 	</div>
-<br><br>
 	<?php include 'spons-slider.php'; ?>
 	<?php include 'footer.php'; ?>
 	<?php include 'js_include.php'; ?>

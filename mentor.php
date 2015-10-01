@@ -7,8 +7,7 @@
 </head>
 <body >        
 	<div class="container">
-		<br>
-			<?php include 'topheader.php';?><br><br>
+			<?php include 'topheader.php';?>
 		    <?php include 'navbar.php' ;?>
 	
 			<div >
@@ -24,10 +23,10 @@
 					Under this programme, we invite our alumni from across the world and from different fields to interact
 					with the students and help them build their network and gain new perspective on the possibilities open
 					to them after graduation.
-					<br><br><br><br><br><br><br><br><br>    For more information visit
+				    For more information visit
                    <a href="http://www.mentorship.iitkgp.ernet.in/mainpage/index" style="text-decoration:none;text-align:center;"> http://www.mentorship.iitkgp.ernet.in/mainpage/index</a>
 				   <br>
-					</p><br><br><br><br><br><br><br><br>
+					</p>
 			    </div>
 				
 			</div>

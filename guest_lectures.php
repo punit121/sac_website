@@ -6,22 +6,21 @@
 	</head>
 	<body>
 		<div class="container">
-		<br>
 			<?php
-				include 'topheader.php';?>
-			<br>
-			<?php
+				include 'topheader.php';
+		
+			
 				include 'css_include.php';
 				include 'navbar.php';
 				include 'metatags.php';
-			?><br><br>
+			?>
 			<div class="mycontent">
 			
 				<div class="heading">
 					<h1>Guest Lectures</h1>
 				</div>
 				<div class="myslider">
-					<img src="http://placehold.it/800x400" >
+					<img src="http://placehold.it/1150x300" >
 				</div>
 				<div class="main_content">
 					Department of Instrumentation Engineering organized alumni meet on 12th April, 2014,

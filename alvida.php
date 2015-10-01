@@ -14,17 +14,12 @@
 	
 	<body>
 	<div class="container">
-	
-	<br>
-	<?php include 'topheader.php';?><br><br>	
+	<?php include 'topheader.php';?>	
 	<?php include 'navbar.php' ;?>
-	<br>
 	<h2 style="text-align:center;">
 	ALVIDA
-	</h2><br>
-	<div class="row" style="position:relative;left:10px;">
-	<img src="http://placehold.it/1000x250" >
-	</div><br><br>
+	</h2>
+	<?php include 'internal slider.php'?><br><br><br><br>
 	<div class="row">
 	<div class="col-md-8"  style="text-align:justify">
 	<h2 style="font-style:Exomedium">What is Alvida</h2><hr>
@@ -37,147 +32,14 @@
 	</div>
 	<div class="col-md-4">
 	<h2>Share Your Memory</h2><hr>
-	<br><br>
 	<form>
-	<input type="text" name="email" placeholder="Email" style="width:350px;border-radius:4px;border-width:3.5px;background-color:#383838;color:white;"/><br><br>
-	<textarea rows="12" cols="36" placeholder="Share your memory" style="border-radius:12px;border-width:3.5px;background-color:#383838;color:white;" ></textarea><br><br>
+	<input type="text" name="email" placeholder="Email" style="width:350px;border-radius:4px;border-width:3.5px;background-color:#383838;color:white;"/><br>
+	<textarea rows="12" cols="36" placeholder="Share your memory" style="border-radius:12px;border-width:3.5px;background-color:#383838;color:white;" ></textarea><br>
 	<input type="submit" name="submit" class="btn btn-success" style="width:100%;"/>
 	</form>
 	
 	</div>
 	</div>
-	<h2 style="text-align:center;">MEMORIES</h2><br><br>
-	
-		
-		<div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-
-      <div class="item active">
-        <img src="img/1.jpg" alt="img1" width="460" height="345" >
-        <div class="carousel-caption">
-          <h3>img1</h3>
-          
-        </div>
-      </div>
-
-      <div class="item">
-        <img src="img/2.jpg" alt="img2" width="460" height="345" >
-        <div class="carousel-caption">
-          <h3>img2</h3>
-        </div>
-      </div>
-    
-      <div class="item">
-        <img src="img/3.jpg" alt="img3" width="460" height="345" >
-        <div class="carousel-caption">
-          <h3>img3</h3>
-        </div>
-      </div>
-
-      <div class="item">
-        <img src="img/4.jpg" alt="img4"  width="460" height="345">
-        <div class="carousel-caption">
-          <h3>img4</h3>
-        </div>
-      </div>
-  
-    </div>
-
-  </div><br><br><br>
-	<div class="row">	
-		<div class="col-md-6">
-		<div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-
-      <div class="item active">
-        <img src="img/1.jpg" alt="img1" width="400" height="250" >
-       
-      </div>
-
-      <div class="item">
-        <img src="img/2.jpg" alt="img2" width="400" height="250" >
-        
-      </div>
-    
-      <div class="item">
-        <img src="img/3.jpg" alt="img3" width="400" height="250" >
-        
-      </div>
-
-      <div class="item">
-        <img src="img/1.jpg" alt="img4"  width="400" height="250">
-        
-      </div>
-  
-    </div>
-
-   
-    
-  </div><br>
-		<img src="http://placehold.it/400x200" >
-		</div>
-		<div class="col-md-6" style="padding:10px;">
-		<img src="http://placehold.it/400x200" >
-		<br><br>
-		<div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-
-      <div class="item active">
-        <img src="img/1.jpg" alt="img1" width="400" height="250" >
-        
-      </div>
-
-      <div class="item">
-        <img src="img/2.jpg" alt="img2" width="400" height="250" >
-        
-      </div>
-    
-      <div class="item">
-        <img src="img/3.jpg" alt="img3" width="400" height="250" >
-       
-      </div>
-
-      <div class="item">
-        <img src="img/4.jpg" alt="img4"  width="400" height="250">
-      
-      </div>
-  
-    </div>
-
-   
-    
-  </div>
-		</div>
-	</div><br><br>
-	<br>
-	<br><br><br><br><br><br>
 	<?php include 'spons-slider.php'; ?>
 	<?php include 'footer.php'; ?>
 	<?php include 'js_include.php'; ?>

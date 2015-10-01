@@ -7,13 +7,10 @@
 	
 	<body>
 	<div class="container">
-	<br>
-	<?php include 'topheader.php';?>
-	<br><br>	
+	<?php include 'topheader.php';?>	
 	<?php include 'navbar.php' ;?>
 	<div class="row">
 		<img src="http://placehold.it/1000x250">
-	<br><br>
 	</div>
 	<div class="row" >
 	<h2 style="text-align:center">YEARNINGS OF YORE</h2>
@@ -25,7 +22,6 @@
 	</p>
 	</div>	
 	</div>
-	<br><br>
 	
 		<table class="table table-condensed" style="text-align:center">
 			<thead>
@@ -68,7 +64,6 @@
 				</tr>
 			</tbody>
 		</table>
-	<br><br>
 	
 	
 	

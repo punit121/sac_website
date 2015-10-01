@@ -6,20 +6,17 @@
   
 </head>
 <body>
-
  
 	
 	
            
 		
 		 <div class="container-fluid">
-    <div class="container" align="center">
-		    <br>
-	<div style="position:absolute;right:180px;">	<?php include 'links.php';?></div><br><br><br>    
-		
+    <div class="container" align="center">   
+			<?php include'topheader.php' ?>
+
 			<?php include 'navbar.php';?>
       <h2>Students' Alumni Cell</h2>
-	  <br>
       <div class="row">
         <div class="col-md-6">
           <div class="panel panel-default">
@@ -221,7 +218,7 @@
           </div>
         </div>
       </div>
-	  <br><br><hr><br><br>
+	 
     <?php include 'footer.php'; ?>
 	<?php include 'js_include.php';?>
 	</div>

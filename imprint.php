@@ -7,8 +7,8 @@
 </head>
 <body >        
 	<div class="container">
-		<br>
-		<?php include 'topheader.php'; ?><br><br>
+		
+		<?php include 'topheader.php'; ?>
 		    <?php include 'navbar.php' ;?>
 	
 			<div >
@@ -26,7 +26,7 @@
 					The 9 options have been categorized in 3 slabs, according to the sign-ups raised by the Class of 2015 at the end of campaigning. 
 					You may make your choice of Class Gift in every slab. So, vote for 3 class gifts, one in each slab.<br><br><br><br><br><br><br><br><br>
 					<a href="http://www.webteam.iitkgp.ernet.in/scg/"  style="text-decoration:none;">Click Here</a> to visit My Imprint page
-					</h5><br><br><br><br><br><br><br><br>
+					</h5>
 			    </div>
 				
 			</div>

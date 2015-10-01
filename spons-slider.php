@@ -8,7 +8,7 @@
 
 div#wn { 
 	position:relative; left:4px;
-	width:1100px; height:250px; 
+	width:1100px; height:140px; 
 	overflow:hidden;
 	}
     
@@ -76,19 +76,8 @@ if ( DYN_WEB.Scroll_Div.isSupported() ) {
 
 
 </span>        </div>
-        
-    </div>
-</div>  
-
-  
-
-
-
 </div>
-
-
-
-
-
+</div>  
+</div>
 </body>
 </html>

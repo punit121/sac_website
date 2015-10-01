@@ -7,21 +7,19 @@
 
     <body >        
     <div class="container">
-    <br>
-    <?php include 'topheader.php'; ?><br><br>
+    <?php include 'topheader.php'; ?>
     <?php include 'navbar.php' ;?>
     <div class="row">
     <h2 style="text-align:center;">
     ANNUAL ALUMNI MEET
-    </h2><br>
+    </h2>
     </div>
     <div class="row">
-        <img src="http://placehold.it/1000x250">
+        <img src="img\meet.jpg" width="1150 px";>
     </div>
-    <br><br>
     <div class="row" >
 		<div class="col-md-8" style="text-align:justify;">
-         <br>
+      
 		 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend eleifend ultricies. Aliquam nisl arcu, iaculis et elit in, ultrices tincidunt nisi. Etiam vel convallis magna, nec rhoncus lectus. Maecenas vitae elementum quam, ut tempus enim. Etiam ullamcorper malesuada massa. Mauris auctor rhoncus velit ac suscipit. Curabitur tincidunt, massa ornare gravida finibus, enim nulla hendrerit velit, ac fringilla justo metus vel est.
 
         In quis dapibus urna, ac cursus enim. Aliquam tempus lacinia turpis. Quisque id ligula ligula. Maecenas vitae quam facilisis, aliquet magna a, rutrum neque. Vivamus tempor nulla id suscipit dapibus. Aliquam interdum nibh sit amet dapibus ornare. Nam maximus molestie vulputate. Fusce suscipit sem a iaculis efficitur. 
@@ -42,36 +40,12 @@
         </a>
     </div>
 	</div>
-<br><br>
-<div class="row">
-        <div class="col-md-8">
-        <img src="http://placehold.it/600x400" >
-        </div>
-        <div class="col-md-4">
-        <img src="http://placehold.it/200x200" >
-        <img src="http://placehold.it/200x200" >
-        </div>
-    </div>
-    <br>
-    <div class="row">
-        <div class="col-md-6">
-                <img src="http://placehold.it/400x200"> 
-        </div>
-        
-        <div class="col-md-6">
-                <img src="http://placehold.it/400x200">
-        </div>
-        
-    </div>
-    <br><br>
-<div class="row">
-    
-   
-</div>
-    <div class="row">
-        
-        </div>
-        <br><br>
+	<hr>
+	<?php include 'internal slider.php'?>
+	<div class="container-fluid">
+	<div class="col-sm-4">
+	</div>
+	<br><br><br><br>
 	<?php include 'spons-slider.php'; ?>	
     <?php include 'footer.php';?>
 
