@@ -3,6 +3,9 @@
         <title>Students' Alumni Cell &middot; IIT Kharagpur</title>
         <?php include 'metatags.php'; ?>
         <?php include 'css_include.php';?>  
+				<style>
+				#fixed{position:fixed;}
+				</style>
     </head>
 
     <body >        
@@ -38,14 +41,18 @@
     </div>
 	</div>
 	<hr>
+	<h2 style="text-align:left">Moments</h2>
 	<?php include 'internal slider.php'?>
+<<<<<<< HEAD
 	<div class="container-fluid">
 	<div class="col-sm-4">
 	</div>
 	<?php include 'spons-slider.php'; ?>	
+=======
+	
+>>>>>>> 8fdb3431ac5f139af5d5fed62057f630d96c534a
     <?php include 'footer.php';?>
 
     <?php include 'js_include.php';?>
-    </div>
     </body>
   </html>

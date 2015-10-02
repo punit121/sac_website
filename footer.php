@@ -23,7 +23,7 @@
 	 <div class="col-md-4" style="float:left">
 	 
 	  <form action="submit.php" method="post">
-	  <h3><span class="glyphicon glyphicon-envelope"></span>   Contact Us:</h3>
+	  <h3><span class="glyphicon glyphicon-envelope"></span>Write to us</h3>
 	  <br> 
 	  <input type="text" name="email" placeholder="Email" style="width:320px"/>
 	  <br>
