@@ -26,7 +26,9 @@
 	<br>
 	<h2 style="text-align:center;">What Does A-cell Do</h2>
 	<?php include 'column3.php';?>
-
+	 <div class="row" style="position:fixed;right:30px;top:320px;width:80px;">
+	<button class="btn btn-success">feedback</button>
+	</div>
 	<h2 style="text-align:center;">Latest Works</h2>
 
 	<?php include 'column4.php' ;?>

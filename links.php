@@ -1,3 +1,4 @@
+<div style="position:relative;right:-180px">
 <a href="https://www.facebook.com/iitkgp.alumnicell?fref=ts&ref=br_tf">
 <i class="fa fa-facebook fa-2x" ></i>
 </a>
@@ -15,3 +16,4 @@
 <a href="//google.com">
 <i class="fa fa-wikipedia-w"></i>
 </a>
+</div>
