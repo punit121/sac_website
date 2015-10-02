@@ -1,4 +1,4 @@
-<div class="footer">
+<div class="footer" style=" background-color:#003366">
 
 <div class="row">
 	 <div class="col-md-4" id="verticalLine" >
@@ -28,10 +28,10 @@
 	  <input type="text" name="email" placeholder="Email" style="width:320px"/>
 	  <br>
 	  <br>
-	  <textarea name="comment" rows="5" cols="35" placeholder="comments here" ></textarea>
+	  <textarea name="comment" rows="5"  style="width:320px" placeholder="comments here" ></textarea>
 	  <br>
 	  
-	  <input type="submit" class="btn btn-info" value="submit"/>
+	  <input type="submit" class="btn btn-info" value="Submit"/>
 	  
 	  </form>
 	  
