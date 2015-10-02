@@ -7,8 +7,7 @@
 	</head>
 
 	<body >        
-
-
+<br>
 	<div class="container">
 	<?php include 'topheader.php';?>
 	<?php include 'navbar.php' ;?>
@@ -24,7 +23,11 @@
 		</div>
 	</div>
 	<br>
+<<<<<<< HEAD
+	<h2 style="text-align:center;">What Does SAC Do</h2>
+=======
 	<h2 style="text-align:center;">What does students’ alumni cell do </h2>
+>>>>>>> 8fdb3431ac5f139af5d5fed62057f630d96c534a
 	<?php include 'column3.php';?>
 	 <div class="row" style="position:fixed;right:30px;top:320px;width:80px;">
 	<button class="btn btn-success">feedback</button>
@@ -41,5 +44,6 @@
 	<?php include 'js_include.php';?>
 	
 	</div>
+<br><br>
 	</body>
 </html>
