@@ -36,6 +36,7 @@
 											<li><a href="imprint.php" >MY IMPRINT</a></li>
                      <li><a href="#" >BLOG</a></li>
                       <li><a href="contact.php" >THE TEAM</a></li>
+					  <li><a href="association.php" >ASSOCIATION</a></li>
                 </ul>
             </div>
            

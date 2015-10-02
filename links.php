@@ -1,4 +1,4 @@
-<div style="position:relative;right:-180px">
+<div style="position:relative;left:80px;">
 <a href="https://www.facebook.com/iitkgp.alumnicell?fref=ts&ref=br_tf"target="_blank">
 <i class="fa fa-facebook fa-2x" ></i>
 </a>

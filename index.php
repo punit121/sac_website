@@ -34,6 +34,8 @@
 	<?php include 'column4.php' ;?>
 
 	<?php include 'midbox.php' ;?>
+	<?php include 'spons-slider.php' ;?>
+	
 	<?php include 'footer.php';?>
 
 	<?php include 'js_include.php';?>
