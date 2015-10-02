@@ -24,7 +24,7 @@
 		</div>
 	</div>
 	<br>
-	<h2 style="text-align:center;">What Does A-cell Do</h2>
+	<h2 style="text-align:center;">What does students’ alumni cell do </h2>
 	<?php include 'column3.php';?>
 	 <div class="row" style="position:fixed;right:30px;top:320px;width:80px;">
 	<button class="btn btn-success">feedback</button>
@@ -34,7 +34,6 @@
 	<?php include 'column4.php' ;?>
 
 	<?php include 'midbox.php' ;?>
-	<?php include 'spons-slider.php'; ?>
 	<?php include 'footer.php';?>
 
 	<?php include 'js_include.php';?>

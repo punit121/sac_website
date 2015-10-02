@@ -11,10 +11,10 @@
 		<?php include 'topheader.php'; ?>
 		    <?php include 'navbar.php' ;?>
 	
-			<div >
+		
 				<div  style="padding:10px;margin:10px;" >
 					<a href="http://www.webteam.iitkgp.ernet.in/scg/" style="text-decoration:none;"><h2>My Imprint</h2></a>
-					<h5>
+					
 					IIT-KGP has a long and historic legacy of Alumni Giving Back which has existed in one or the other form.
 					The Graduating Class Gift is yet another chapter to be added in KGP alumni legacy initiated under My Imprint Program.
 					It is a class-based effort directed towards raising unrestricted fund partially used currently and partially going towards Endowment. 
@@ -26,15 +26,15 @@
 					The 9 options have been categorized in 3 slabs, according to the sign-ups raised by the Class of 2015 at the end of campaigning. 
 					You may make your choice of Class Gift in every slab. So, vote for 3 class gifts, one in each slab.<br><br><br><br><br><br><br><br><br>
 					<a href="http://www.webteam.iitkgp.ernet.in/scg/"  style="text-decoration:none;">Click Here</a> to visit My Imprint page
-					</h5>
+					
 			    </div>
 				
-			</div>
+			
 			<?php include 'spons-slider.php'; ?>
 		<?php include 'footer.php';?>
-		<?php include 'script.php';?>
+		
 
 	</div>
-
+<?php include 'script.php';?>
 </body>
 </html>
