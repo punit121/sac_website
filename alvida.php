@@ -16,7 +16,7 @@
 	<div class="container">
 	<?php include 'topheader.php';?>	
 	<?php include 'navbar.php' ;?>
-	
+	<img src="img\alvida.jpg" width="1150px"/>
 	<div class="row">
 	<div class="col-md-8"  style="text-align:justify">
 	<h2 style="font-style:Exomedium">ALVIDA</h2><hr>

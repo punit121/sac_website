@@ -35,11 +35,11 @@ div#inner1 img {
 <img src="img/spons/sponsors/e3.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/e4.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/e5.png" width="120" height="80" alt="" />
-<img src="img/spons/sponsors/e6.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/e7.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/e8.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/e9.png" width="120" height="80" alt="" />
-<img src="img/spons/sponsors/e11.png" width="120" height="80" alt="" />
+<img src="img/spons/sponsors/e1.png" width="120" height="80" alt="" />
+<img src="img/spons/sponsors/g12.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/luxuryhotelpartner.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/strategic.png" width="120" height="80" alt="" />
 </span>
@@ -49,11 +49,11 @@ div#inner1 img {
 <img src="img/spons/sponsors/e3.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/e4.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/e5.png" width="120" height="80" alt="" />
-<img src="img/spons/sponsors/e6.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/e7.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/e8.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/e9.png" width="120" height="80" alt="" />
-<img src="img/spons/sponsors/e11.png" width="120" height="80" alt="" />
+<img src="img/spons/sponsors/e1.png" width="120" height="80" alt="" />
+<img src="img/spons/sponsors/g12.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/luxuryhotelpartner.png" width="120" height="80" alt="" />
 <img src="img/spons/sponsors/strategic.png" width="120" height="80" alt="" />
 

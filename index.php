@@ -7,7 +7,6 @@
 	</head>
 
 	<body >        
-<br>
 	<div class="container">
 	<?php include 'topheader.php';?>
 	<?php include 'navbar.php' ;?>
@@ -23,27 +22,20 @@
 		</div>
 	</div>
 	<br>
-<<<<<<< HEAD
-	<h2 style="text-align:center;">What Does SAC Do</h2>
-=======
-	<h2 style="text-align:center;">What does students’ alumni cell do </h2>
->>>>>>> 8fdb3431ac5f139af5d5fed62057f630d96c534a
+	<h2 style="text-align:center;">What does Students’ Alumni Cell do? </h2>
 	<?php include 'column3.php';?>
-	 <div class="row" style="position:fixed;right:30px;top:320px;width:80px;">
-	<button class="btn btn-success">feedback</button>
-	</div>
-	<h2 style="text-align:center;">Latest Works</h2>
+	<h2 style="text-align:center;">Latest Programs</h2>
 
 	<?php include 'column4.php' ;?>
 
 	<?php include 'midbox.php' ;?>
 	<?php include 'spons-slider.php' ;?>
 	
-	<?php include 'footer.php';?>
 
-	<?php include 'js_include.php';?>
 	
+		<?php include 'footer.php';?>
+
 	</div>
-<br><br>
+<?php include 'js_include.php';?>
 	</body>
 </html>

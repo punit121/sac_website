@@ -1,4 +1,4 @@
-<div class="footer" style=" background-color:#003366">
+<div class="footer">
 
 <div class="row">
 	 <div class="col-md-4" id="verticalLine" >

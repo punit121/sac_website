@@ -3,6 +3,9 @@
 		<title>Students' Alumni Cell &middot; IIT Kharagpur</title>
 		<?php include 'metatags.php'; ?>
 		<?php include 'css_include.php';?>
+		
+		<link href="css/popup.css" rel="stylesheet">
+<script src="js/popup.js"></script>
 	</head>
 
 	<body >        
@@ -14,13 +17,21 @@
 	<div class="row">
 	<div class="col-md-6">
   <h1>Get Associated With Us  </h1><hr><br><br>
-     <form action="">
-	 <input type="text" name="company" placeholder="Company Name" style="padding-left:6px;width:450px;border-radius:4px;"><br><br>
-	  <input type="text" name="Email" placeholder="Company Email" style="padding-left:6px;width:450px;border-radius:4px;"><br><br>
-	   <input type="text" name="Address" placeholder="Address" style="padding-left:6px;width:450px;border-radius:4px;"><br><br>
+     <div id="popupContact">
+<form action="#" id="form" method="post" name="form">
+<img id="close" src="images/3.png" onclick ="div_hide()">
+<h2>Contact Us</h2>
+<hr>
+<input id="name" name="name" placeholder="Name" type="text">
+<input id="email" name="email" placeholder="Email" type="text">
+<textarea id="msg" name="message" placeholder="Message"></textarea>
+<a href="javascript:%20check_empty()" id="submit">Send</a>
+</form>
+<button id="popup" onclick="div_show();">join us</button>
+
+</div>
+</div>
 	 
-	 <button class="btn btn-success" style="width:300px;">join us</button>
-	 </form>
     </div>
 	<h1>Contact Us</h1><hr>
 	<div class="col-md-3">
@@ -44,7 +55,7 @@
           </div>
         </div>	
 	</div><br><br><br><br>
-	<h1 style="width:100%px;"><b>Previous        Associations</b></h1>
+	<h1 style="width:100%px;"><b>Previous Associations</b></h1>
 		<br><br>
     <h2> Co Sponsor </h2>
     <a href="http://www.ulaindia.com" target="_blank">

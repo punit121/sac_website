@@ -6,7 +6,6 @@
 		<?php include 'metatags.php'; ?>
 		<?php include 'css_include.php';?>
 	</head>
-	
 	<body>
 	<div class="container">
 	
@@ -36,26 +35,26 @@
 
 <div class="row">
 	<div class="col">
-			<div class="col-md-6">
+			<div class="col-md-6" >
             	<div class="row bg-light" >
-            		<div class="col-md-4"><div class="row"><img src="http://placehold.it/200x200"></div></div>
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\arunabh kumar.jpg" height="200px" style="border-radius: 100%"></div></div>
                     <div  class="col-md-8">
-                    	<h3>Abc... Singh</h3>
-                        <h4>CEO abc</h4>
-                    	<p>If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+                    	<h3>ARUNABH KUMAR</h3>
+                        <h4>FOUNDER & CEO</h4>
+                    	<p>THE VIRAL FEVER
 						</p>
 						
 					</div>
                 </div>
             </div>
-    </div>    
-            <div class=" col-md-6 ">
+   </div>    
+            <div class=" col-md-6 " >
             	<div class="row bg-light" >
-            		<div class="col-md-4"><div class="row"><img src="http://placehold.it/200x200"></div></div>
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\1.jpg "height="200px" style="border-radius: 100%"></div></div>
                     <div  class="col-md-8">
-                    	<h3>Xyz singh</h3>
-                        <h4>CEO xyz</h4>
-                    	<p>If your actions inspire others to dream more, learn more, do more and become more, you are a leader. </p>
+                    	<h3>S.V.MANI</h3>
+                        <h4>VICE PRESIDENT</h4>
+                    	<p>TATA CONSULTANCY SERVICE</p>
 					</div>
                 </div>
             </div>
@@ -64,11 +63,11 @@
 	<div class="col">
 			<div class="col-md-6">
             	<div class="row bg-light" >
-            		<div class="col-md-4"><div class="row"><img src="http://placehold.it/200x200"></div></div>
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\2.jpg"height="200px" style="border-radius: 100%"></div></div>
                     <div  class="col-md-8">
-                    	<h3>Abc... Singh</h3>
-                        <h4>CEO abc</h4>
-                    	<p>If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+                    	<h3>SUBRATA PAUL</h3>
+                        <h4>CEO & DIRECTOR</h4>
+                    	<p>BENGAL AERTROPOLIS<br> PROJECTS LIMITED
 						</p>
 						
 					</div>
@@ -77,11 +76,11 @@
     </div>    
             <div class=" col-md-6 ">
             	<div class="row bg-light" >
-            		<div class="col-md-4"><div class="row"><img src="http://placehold.it/200x200"></div></div>
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\3.jpg"height="200px" style="border-radius: 100%"></div></div>
                     <div  class="col-md-8">
-                    	<h3>Xyz singh</h3>
-                        <h4>CEO xyz</h4>
-                    	<p>If your actions inspire others to dream more, learn more, do more and become more, you are a leader. </p>
+                    	<h3>ASHOK KHEMKA</h3>
+                        <h4>DG</h4>
+                    	<p>ARCHIVES AND ARCHAEOLOGY,HARYANA</p>
 					</div>
                 </div>
             </div>
@@ -90,11 +89,11 @@
 	<div class="col">
 			<div class="col-md-6">
             	<div class="row bg-light" >
-            		<div class="col-md-4"><div class="row"><img src="http://placehold.it/200x200"></div></div>
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\4.jpg"height="200px" style="border-radius: 100%"></div></div>
                     <div  class="col-md-8">
-                    	<h3>Abc... Singh</h3>
-                        <h4>CEO abc</h4>
-                    	<p>If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+                    	<h3>PESHWA ACHARYA</h3>
+                        <h4>CEO</h4>
+                    	<p>AASAANPAY SOLUTIONS INDIA PRIVATE LIMITED
 						</p>
 						
 					</div>
@@ -103,11 +102,11 @@
     </div>    
             <div class=" col-md-6 ">
             	<div class="row bg-light" >
-            		<div class="col-md-4"><div class="row"><img src="http://placehold.it/200x200"></div></div>
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\5.jpeg"height="200px" style="border-radius: 100%"></div></div>
                     <div  class="col-md-8">
-                    	<h3>Xyz singh</h3>
-                        <h4>CEO xyz</h4>
-                    	<p>If your actions inspire others to dream more, learn more, do more and become more, you are a leader. </p>
+                    	<h3>TULSI DAS BANERJEE</h3>
+                        <h4>VICE PRESIDENT & HEAD-STRATEGY</h4>
+                    	<p>TIL LTD KOLKATA</p>
 					</div>
                 </div>
             </div>

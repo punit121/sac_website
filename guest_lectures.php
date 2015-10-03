@@ -34,20 +34,20 @@
 					<h1>Our Speakers</h1>
 					<hr style="border:1px solid black">
 					<div class="speaker_images">
-						<div class="img">
-							<img class="a" src="img/squareLogo.jpg" style="margin-bottom:10px" >
-							<div class="name"> Name</div>
+						<div class="img" >
+							<img src="img\guest lecture\s1.jpg" >
+							<div class="name"> Veerendra Jaitly</div>
 						</div>	
-						<div class="img">	
-							<img src="img/squareLogo.jpg" style="margin-bottom:10px" >
-							<p class="name">Name</p>
+						<div class="img" style="background-color:#‎ff9966‬">	
+							<img src="img\guest lecture\s2.jpg"  >
+							<p class="name">Anshuman Mishra</p>
 						</div>
 						<div class="img">	
-							<img src="img/squareLogo.jpg" style="margin-bottom:10px" >
+							<img src="img\guest lecture\s3.jpg" >
 							<p class="name">Name</p>
 						</div>	
 						<div class="img">	
-							<img src="img/squareLogo.jpg" style="margin-bottom:10px" >
+							<img src="img\guest lecture\s4.jpg" >
 							<p class="name">Name</p>
 						</div>	
 					</div>

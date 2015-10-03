@@ -19,8 +19,9 @@
 	 </div>
 	 <div  class="col-sm-3" style="background-color:#dddddd; height:450px">
 	  <h2>Testimonials</h2>
-	  <hr>
+	  <hr><img src="img\d.png" style="float:left;margin-top:-10px">
 		 <div class="marquee" >
+		 
 		    Short Term Course on Research Methods & Data Analysis (RMDA) 
 			Events<br><br>
 			National Workshop on Advances in Photonics
@@ -33,7 +34,8 @@
 			Nov 17-21, 2015<br><br>
 			International Symposium on Frontiers of Research Speech and Music
 			Nov 23-24, 2015<br><br>
-      </div>
+			
+      </div><img src="img\c.png" style="float:right">
       </div>
  </div>
 

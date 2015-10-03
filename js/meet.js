@@ -1,0 +1,1 @@
+$(document).ready(function(){	$(window).scroll(function(){		var position_top=$(document).scrollTop();		if(position_top>=1200){			$('#fixed').addClass('position:fixed');								}	} );	});
