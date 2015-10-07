@@ -17,7 +17,6 @@
 				<img src="img/alvida.jpg"/>
 				<img src="img/3.jpg" />
 				<img src="img/mi.jpg" />
-				<img src="img/meet.jpg" />
 			</div>
 		</div>
 	</div>

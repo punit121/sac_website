@@ -19,6 +19,7 @@
 		  Pin-721302, West Bengal, India<br>
 		  Ph: 03222-282236 <br>
 		  Email: alumni@hijli.iitkgp.ernet.in
+			<?php include 'links.php';?>
 	</p></div>
 	  
 	 <div class="col-md-4" style="float:left">

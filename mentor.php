@@ -30,9 +30,9 @@
 					<a href="http://www.mentorship.iitkgp.ernet.in/mainpage/index"><input type="submit" value="Students" class="btn btn-success btn-lg" style="width:250px;"></a>
 					<a href="http://www.mentorship.iitkgp.ernet.in/mainpage/index"><input type="submit" value="Alumni" class="btn btn-success btn-lg" style="width:250px;"></a>
 					</div>
-					<div class="col-sm-4" id="Demo">	
+					<div class="col-sm-4" id="Demo" style="background-color:#ffcc99">	
 					    <h2 class="center"> Prominent Alumni Registered for this Programme </h2>
-						<div class="marquee" style="height:400px;">					
+						<div class="marquee" style="height:400px;margin-bottom:15px">					
 					   <ul class="list-group" data-spy="scroll" data-target=".navbar" data-offset="50" >
 						<li class="list-group-item prominent" id="1">Hardward Business School</li>
 						<li class="list-group-item prominent" id="4">Bank fo America</li>
@@ -104,7 +104,7 @@ $('.marquee').marquee({
     //time in milliseconds before the marquee will start animating
     delayBeforeStart: 0,
     //'left' or 'right'
-    direction: 'down',
+    direction: 'up',
     //true or false - should the marquee be duplicated to show an effect of continues flow
     duplicated: true
 });
