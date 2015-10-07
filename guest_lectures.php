@@ -20,13 +20,13 @@
 					<h1>Guest Lectures</h1>
 				</div>
 					<img src="img/guest.jpg" width="1150px" height="300px">
-				<p>Since its inception in 1951, IIT Kharagpur has mentored some of the most eminent personalities in the history of the nation. The Guest Lectures provide a medium for the alumni to give back to the institute by imparting their experience to the students and preparing them for the real world. The topics are spread all over – from personality development to department related technical lectures.<br>
+				<p id="article">Since its inception in 1951, IIT Kharagpur has mentored some of the most eminent personalities in the history of the nation. The Guest Lectures provide a medium for the alumni to give back to the institute by imparting their experience to the students and preparing them for the real world. The topics are spread all over - from personality development to department related technical lectures.<br>
 				The guest lectures pave a way for interaction between the alumni and the current students. Having a large alumni base to learn from has always been an integral benefit of being a student of IIT Kharagpur and these lectures ensure exactly that. Moreover, this also provides the alumni with an opportunity to pitch their ideas or products to the student audience.<br>
-				IIT Kharagpur also organizes the Leadership Summit – an event where Kharagpur alumni who are reputed leaders in their respective fields come together on one platform and enthusiastically share the secrets to their success. This event is looked forward to by the students since it exposes them to a lot of a practical knowledge that can help them move up the corporate ladder with ease.<br>
-				Guest lectures form a very important part of the working of Students’ Alumni Cell by bridging the gap between alumni and students and bringing them closer together. They allow alumni to stay in touch with their Alma Mater and bring the students up to date with what they can achieve if they set their minds to it.</p>
+				IIT Kharagpur also organizes the Leadership Summit - an event where Kharagpur alumni who are reputed leaders in their respective fields come together on one platform and enthusiastically share the secrets to their success. This event is looked forward to by the students since it exposes them to a lot of a practical knowledge that can help them move up the corporate ladder with ease.<br>
+				Guest lectures form a very important part of the working of Students' Alumni Cell by bridging the gap between alumni and students and bringing them closer together. They allow alumni to stay in touch with their Alma Mater and bring the students up to date with what they can achieve if they set their minds to it.</p>
 				<div class="our_speakers">
 					<h1>Our Speakers</h1>
-					<div class="speaker_images">
+					<!--<div class="speaker_images">
 						<div class="img" style="background-color:#ffcc99" >
 							<img src="img\guest lecture\s1.jpg" >
 							<div class="name"> </div>
@@ -59,8 +59,57 @@
 							<img src="img\guest lecture\s8.jpg" >
 							<p class="name">Name</p>
 						</div>	
-					</div>
+					</div>-->
+
+					<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="img/1 (1).jpg" alt="Chania">
+    </div>
+
+    <div class="item">
+      <img src="img/1 (2).jpg" alt="Chania">
+    </div>
+
+    <div class="item">
+      <img src="img/1 (3).jpg" alt="Flower">
+    </div>
+
+    <div class="item">
+      <img src="img/1 (4).jpg" alt="Flower">
+    </div>
+        <div class="item">
+      <img src="img/1 (5).jpg" alt="Flower">
+    </div>
+        <div class="item">
+      <img src="img/1 (6).jpg" alt="Flower">
+    </div>
+        <div class="item">
+      <img src="img/1 (7).jpg" alt="Flower">
+    </div>
+        <div class="item">
+      <img src="img/1 (8).jpg" alt="Flower">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+
 				</div>
+		
 				<div class="videos">
 					<h1>Videos</h1>
 					<div class="vid">

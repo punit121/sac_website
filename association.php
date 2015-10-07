@@ -15,12 +15,13 @@
 	<?php include 'navbar.php' ;?>
 	<div class="row">
 	<div class="col-md-6">
-  <h1>Get Associated With Us  </h1><hr>
+  <h1><b>Get Associated With Us  </b></h1><hr>
     
 	
-
+<br>
 					<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#registermentor" style="width:300px;">
-						join us
+
+						Join Us
 					</button>
 					<div class="modal fade" id="registermentor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
@@ -74,8 +75,8 @@
 
 	 
   
-	<h1>Contact Us</h1><hr>
-	<div class="col-md-3">
+	<h1><b>Contact Us</b></h1><hr>
+	<div class="col-md-3" style="font-size:1.35em">
 	
 		
           <div class="panel panel-default">
@@ -86,7 +87,7 @@
             </div>
           </div>
         </div>
-	<div class="col-md-3">
+	<div class="col-md-3" style="font-size:1.1em;">
 		
           <div class="panel panel-default">
             <div class="panel-body" style="text-align:justify;">

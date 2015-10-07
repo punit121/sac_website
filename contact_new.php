@@ -3,6 +3,13 @@
 <head>
 	<title>Contact Us</title>
 	<link rel="stylesheet" type="text/css" href="css/contact_new.css">
+
+	<style type="text/css">
+	div.phone{
+		font-size: 1.5em;
+	}
+
+	</style>
 </head>
 <body>
 	<div class="container">
@@ -60,7 +67,7 @@
 							<div class="back">
 								<div class="back_header">
 									<h3>General Secretary, Students' Alumni Cell </h3>
-									<div>+91 9800148553 </div>
+									<div class="phone">+91 9800148553 </div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -87,7 +94,7 @@
 							<div class="back">
 								<div class="back_header">
 									<h3>General Secretary, Students' Alumni Cell </h3>
-									<div>+91 9800189955</div>
+									<div class="phone">+91 9800189955</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -116,7 +123,7 @@
 							<div class="back">
 								<div class="back_header">
 									<h3>Finance, SAMP, Web Coordinator </h3>
-									<div>+91 8967681614</div>
+									<div class="phone">+91 8967681614</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -145,7 +152,7 @@
 							<div class="back">
 								<div class="back_header">
 									<h3>Sponsorship, Media Coordinator</h3>
-									<div>+91 7872685343</div>
+									<div class="phone">+91 7872685343</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -172,7 +179,7 @@
 							<div class="back">
 								<div class="back_header">
 									<h3>GL-EGL, SPARC, Design Coordinator </h3>
-									<div>+91 7872830622</div>
+									<div class="phone">+91 7872830622</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -202,7 +209,7 @@
 							<div class="back">
 								<div class="back_header">
 									<h3>GL-EGL, Corporate Engagement, Literary</h3>
-									<div>+91 9614455469</div>
+									<div class="phone">+91 9614455469</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -230,7 +237,7 @@
 							<div class="back">
 								<div class="back_header">
 									<h3>Sponsorship, Phonathon Coordinator</h3>
-									<div>+91 9833223281</div>
+									<div class="phone">+91 9833223281</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -257,7 +264,7 @@
 							<div class="back">
 								<div class="back_header">
 									<h3>SPARC, SAMP, SAM, Public Relations Coordinator</h3>
-									<div>+91 8609267395</div>
+									<div class="phone">+91 8609267395</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -286,7 +293,7 @@
 							<div class="back">
 								<div class="back_header">
 									<h3>Yearbook, SAM, Networking Coordinator</h3>
-									<div>+91 9830805832</div>
+									<div class="phone">+91 9830805832</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -313,7 +320,7 @@
 							<div class="back">
 								<div class="back_header" style="padding-top:30px;">
 									<h3>Design Head </h3>
-									<div>+91 9800115569</div>
+									<div class="phone">+91 9800115569</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -340,7 +347,7 @@
 							<div class="back">
 								<div class="back_header" style="padding-top:30px;">
 									<h3>Design Head </h3>
-									<div>+91 8609273727</div>
+									<div class="phone">+91 8609273727</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -369,7 +376,7 @@
 							<div class="back">
 								<div class="back_header" style="padding-top:30px;">
 									<h3>Web Head</h3>
-									<div>++91 9800190996 </div>
+									<div class="phone">+91 9800190996 </div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
@@ -397,7 +404,7 @@
 							<div class="back">
 								<div class="back_header" style="padding-top:30px;">
 									<h3>Web Head</h3>
-									<div>+91 9800111032</div>
+									<div class="phone">+91 9800111032</div>
 									<div>
 										<a href="#"target="_blank">
 											<i class="fa fa-facebook blue fa-2x" ></i>
