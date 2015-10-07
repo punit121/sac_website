@@ -10,7 +10,9 @@
 	<?php include 'topheader.php'; ?>
 	<?php include 'navbar.php'; ?> 
 		<h2 style="text-align:center">YearBook</h2>
-		<h4 style="text-align:justify">The Yearbook, a first of its kind initiative among the IITs by the Students’ Alumni Cell was given to the graduating batch at the time of the convocation. The yearbook acts as the perfect memorabilia for the passing out batch, containing details of all the students and pictures of time spent by them through their stay in the institute. It was the result of various initiatives on social media platforms that lead to students being able to submit photographs of time spent in Kharagpur. The whole exercise was received very positively by the student community.<h5 style="text-align:center">CLICK the COVER to DOWNLOAD THE pdf Copy</h5>
+<p>The yearbook is a hardbound book that attempts to capture memories for the graduating batches of any institute. ‘Where would we be in thirty years?’ ‘How would I remember my friends with whom I have studied, played, laughed, cried, partied, fought and lived for the past four or five odd years of my life.' These are the questions that bog the minds of the senior year students. This is where the yearbook emerges as the savior. In nostalgic moments of looking back, the yearbook supplements the alumni with visuals to those fleeting memories, photographs of their batch-mates, stills from the events that took place, inspiring words from that professor they looked up to. It gives them an opportunity to relive their golden days.<br>
+The Students’ Alumni Cell works throughout the year to produce three separate yearbooks, one for each of the graduating batches of the Undergraduate, Post Graduate and Research Scholar programs. The Director, the Dean of Alumni Affairs and International Relations, are among many professors who wish the graduating batches well for their lives after KGP in their own ways. Sections, dedicated to each of the departments include a message from the Head Of Departments other than mentioning the names and photographs of its graduating students. The yearbooks also showcase all the events that IIT Kharagpur organized in the year that passed. It features what the societies, cells, and organizations have been up to, the same societies that used up most of their evenings at Kharagpur, which as KGpians would agree weren’t always to their liking.<br>
+Each year, the Students’ Alumni Cell strives to make the yearbook as wholesome and eliciting of emotion and spirit for the alumni.</p>
 		<table class="table table-condensed" style="text-align:center">
 			<thead>
 				<tr class="danger">
@@ -51,8 +53,7 @@
 					<td><img src="http://placehold.it/200x250"></td>
 				</tr>
 			</tbody>
-
-		</table>			<?php include 'spons-slider.php'; ?>
+</table>
 <?php include 'footer.php';?>
 	</div>
 

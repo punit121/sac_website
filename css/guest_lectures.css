@@ -9,17 +9,12 @@
 }
 
 .myslider{
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 	text-align: center;
 }
 
-.main_content{
-	width:80vw;
-	font-size: 16px;
-}
-
 .our_speakers{
-	margin-bottom: 40px;
+	margin-bottom: 10px;
 }
 
 .speaker_images .img{
@@ -34,29 +29,28 @@
 .img{
 background-color:#003366;
 	position: relative;
-	width:240px;
-	height: 240px; 
+	width:160px;
+	height: 160px; 
 	display: inline-block;
 	margin-right:20px;
-	padding:20px;
+	padding:10px;
 }
 
 .img img{
-	width:200px;
-	height: 200px; 
+	width:140px;
+	height: 140px; 
 }
 
 
 .img .name{
 	position: absolute;
-	width: 200px;
-	height: 200px;
-	top: 0px;
-	padding: 50px;
+	width:140px;
+	height: 140px;
+	top: 40px;
 	text-align: center;
 	opacity: 0;
 	font-weight: bold;
-	font-size: 20px;
+	font-size:10px;
 	transition: all 0.3s linear 0s;
 	-webkit-transition: all 0.3s linear 0s;
 

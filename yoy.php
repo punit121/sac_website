@@ -3,6 +3,12 @@
 	<title>Students' Alumni Cell &middot; IIT Kharagpur</title>
 		<?php include 'metatags.php'; ?>
 		<?php include 'css_include.php';?>
+	<style>
+	.image{
+		padding:8px;
+		
+	}
+	</style>
 	</head>
 	
 	<body>
@@ -12,8 +18,8 @@
 		<h2 style="text-align:center">YEARNINGS OF YORE</h2>
 
 		<img src="http://placehold.it/1150x300">
-	<div class="col-md-12">
-		<p style="font-size:20px;text-align:justify;">
+	<div class="row">
+		<p style="text-align:justify;">
 		Yearnings of Yore is an assorted collection of memoirs, which contains literary pieces and photographs/sketches collected from the alumni. The meaning is clear from the name itself which expresses a longing for former times The Magazine is given as a souvenir to all alumni attending the meet. It aims to create a sense of nostalgia among the alumni community through literary pieces relating to their time in the institute. It helps the alumni reconnect to long lost memories  hidden under the vacuum of time.<br>
 		Through this initiative, not only the alumni attending the meet, but also those who have to give it a miss due to some reasons, get a chance to connect to fellow alumni. Every alumni is requested to share articles, photos , stories or any other media relating to their memories of the institute.<br>
 		Also, literary pieces by the current batch of students are incorporated in the collection. This helps the alumni get an idea of the current students’ perspective towards the institute
@@ -22,51 +28,40 @@
 	</div>	
 	
 	
-		<table class="table table-condensed" style="text-align:center">
-			<thead>
-				<tr class="danger">
-					<td>Year</td>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-			<tbody>
-				<tr class="active">
-					<td>2015</td>
-					<td><img src="http://placehold.it/200x250"></td>
-					<td><img src="http://placehold.it/200x250"></td>
-					<td><img src="http://placehold.it/200x250"></td>
-				</tr>
-				<tr class="active">
-					<td >2014</td>
-					<td><img src="http://placehold.it/200x250"></td>
-					<td><img src="http://placehold.it/200x250"></td>
-					<td><img src="http://placehold.it/200x250"></td>
-				</tr>
-				<tr class="warning">
-					<td>2013</td>
-					<td><img src="http://placehold.it/200x250"></td>
-					<td><img src="http://placehold.it/200x250"></td>
-					<td><img src="http://placehold.it/200x250"></td>
-				</tr>
-				<tr class="active">
-					<td>2012</td>
-					<td><img src="http://placehold.it/200x250"></td>
-					<td><img src="http://placehold.it/200x250"></td>
-					<td><img src="http://placehold.it/200x250"></td>
-				</tr>
-				<tr class="info">
-					<td>2011</td>
-					<td><img src="http://placehold.it/200x250"></td>
-					<td><img src="http://placehold.it/200x250"></td>
-					<td><img src="http://placehold.it/200x250"></td>
-				</tr>
-			</tbody>
-		</table>
+		<div class="row" >
+			<div class="col-md-6" >
+			<div class="image" style="background-color:#FAEBD7;padding:8px;">	
+			<img src="http://placehold.it/200x250">
+			</div></div>
+			<div class="col-md-6">
+			<div class="image" style="background-color:#7FFFD4;padding:8px;">	
+			<img src="http://placehold.it/200x250">
+			</div></div>
+		</div>
+		<div class="row">
+			<div class="col-md-6" >
+			<div class="image" style="background-color:#FFF5EE;padding:8px;">	
+			<img src="http://placehold.it/200x250">
+			</div></div>
+			<div class="col-md-6" >
+			<div class="image" style="background-color:#F4A460;padding:8px;">	
+			<img src="http://placehold.it/200x250">
+			</div></div>
+		</div>
+		<div class="row">
+			<div class="col-md-6">
+			<div class="image" style="background-color:#7FFFD4;padding:8px;">	
+			<img src="http://placehold.it/200x250">
+			</div></div>
+			<div class="col-md-6" >
+			<div class="image" style="background-color:#FFF5EE;padding:8px;">	
+			<img src="http://placehold.it/200x250">
+			</div></div>
+		</div>
 	
 	
 	
-	<?php include 'spons-slider.php'; ?>
+	
 	<?php include 'footer.php';?>
 	<?php include 'js_include.php';?>
 	

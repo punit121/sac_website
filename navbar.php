@@ -120,7 +120,8 @@
 					 </ul>
 					</li>
                      <li><a href="#" >BLOG</a></li>
-                      <li><a href="contact.php" >THE TEAM</a></li>
+                      <li><a href="contact_new.php" >THE TEAM</a></li>
+                      <li><a href="chapter.php" >ALUMNI CHAPTERS</a></li>
 					  <li><a href="association.php" >ASSOCIATION</a></li>
                 </ul>
             </div>

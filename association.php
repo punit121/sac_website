@@ -4,8 +4,7 @@
 		<?php include 'metatags.php'; ?>
 		<?php include 'css_include.php';?>
 		
-		<link href="css/popup.css" rel="stylesheet">
-<script src="js/popup.js"></script>
+
 	</head>
 
 	<body >        
@@ -16,26 +15,69 @@
 	<?php include 'navbar.php' ;?>
 	<div class="row">
 	<div class="col-md-6">
-  <h1>Get Associated With Us  </h1><hr><br><br>
-     <div id="popupContact">
-<form action="#" id="form" method="post" name="form">
-<img id="close" src="images/3.png" onclick ="div_hide()">
-<h2>Contact Us</h2>
-<hr>
-<input id="name" name="name" placeholder="Name" type="text">
-<input id="email" name="email" placeholder="Email" type="text">
-<textarea id="msg" name="message" placeholder="Message"></textarea>
-<a href="javascript:%20check_empty()" id="submit">Send</a>
+  <h1>Get Associated With Us  </h1><hr>
+    
+	
+
+					<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#registermentor" style="width:300px;">
+						join us
+					</button>
+					<div class="modal fade" id="registermentor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title">Get Associated With Us   </h4>
+				</div>
+				<div class="modal-body">
+					<form accept-charset="UTF-8" action="/mentors" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M6yvcdpx3ZcBl16iOYSxL6o5txo1qJx8oJrZ/D3159U=" /></div>
+
+<h3 class="center"> Basic Details </h3>
+
+
+<div class="field">
+ <input type="text" style="width:500px;padding:6px;border-radius:5px;" placeholder="Person Name"><br><br>
+</div>
+
+<div class="field">
+   <input type="text" style="width:500px;padding:6px;border-radius:5px;" placeholder="Company Name"><br><br>
+</div>
+
+<div class="field">
+   <input type="text" style="width:500px;padding:6px;border-radius:5px;" placeholder="Email Id"><br><br>
+</div>
+
+<div class="field">
+   <input type="text" style="width:500px;padding:6px;border-radius:5px;" placeholder="Phone No."><br><br>
+</div>
+
+
+<div class="field">
+   <input type="text" style="width:500px;padding:6px;border-radius:5px;" placeholder="Address"><br><br>
+</div>
+
+
+
+
+<div class="actions">
+  <input class="btn btn-primary btn-lg" name="commit" type="submit" value="Submit" style="width:500px" />
+</div>
 </form>
-<button id="popup" onclick="div_show();">join us</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
 
 </div>
-</div>
+
 	 
-    </div>
+  
 	<h1>Contact Us</h1><hr>
 	<div class="col-md-3">
-		<br><br><br>
+	
+		
           <div class="panel panel-default">
             <div class="panel-body" style="text-align:justify;">
               <b>Rihen Chheda</b>
@@ -45,7 +87,7 @@
           </div>
         </div>
 	<div class="col-md-3">
-		<br><br><br>
+		
           <div class="panel panel-default">
             <div class="panel-body" style="text-align:justify;">
               <b>Ankit Sharma</b>
@@ -54,7 +96,7 @@
             </div>
           </div>
         </div>	
-	</div><br><br><br><br>
+	</div><br>
 	<h1 style="width:100%px;"><b>Previous Associations</b></h1>
 		<br><br>
     <h2> Co Sponsor </h2>
@@ -63,9 +105,7 @@
     </a>
     <br>
     <br>
-    <br>
-		<br>
-    <br>
+   
 
     <h2> Strategic Sponsor </h2>
     <a href="http://www.cselectric.co.in" target="_blank">
@@ -73,9 +113,7 @@
     </a>
     <br>
     <br>
-    <br>
-		<br>
-    <br>
+    
 
     <h2>Media Partner</h2>
     <a href="http://www.hindustantimes.com" target="_blank">
@@ -83,26 +121,20 @@
     </a>
     <br>
     <br>
-    <br>
-		<br>
-    <br>
+    
 
     <h2> Major Sponsor </h2>
     <a href="http://www.sesasterlite.com/our-operations/copper.aspx" target="_blank">
       <img class="spons" src="img/spons/2015/major.png" width="500px" height="100px" />
     </a>
-    <br>
-    <br>
-    <br>
+    <br><br>
+    
     <h2> Luxury Hotel Partner </h2>
     <a href="http://www.parkplaza.com" target="_blank">
       <img class="spons" src="img/spons/2015/luxuryhotelpartner.png" width="300px" height="300" />
     </a>
     <br>
-    <br>
-    <br>
-		<br>
-    <br>
+    
 
     <h2> Event Sponsors </h2>
     <div class="row">
@@ -148,8 +180,7 @@
    
 	
     <br>
-    <br>
-    <br>
+   
 
    
     <h2> Gift Sponsors </h2>
@@ -241,10 +272,7 @@
     </a></div></div>
     <br>
     <br>
-    <br>
-    <br>
-
-		<br>
+    
     <h2> Online Media Partners </h2>
     <a href="http://www.markmyfest.com" target="_blank">
       <img class="spons" src="img/spons/2015/omp1.png" width="275px" height="100px" />
@@ -253,10 +281,10 @@
       <img class="spons" src="img/spons/2015/omp2.png" width="275px" height="100px" />
     </a>
 		<br>
-    <br>
-    <br>
+ 
 	<?php include 'js_include.php';?>
   </div>
+	<?php include 'footer.php';?>
 </body>
 
 </html>

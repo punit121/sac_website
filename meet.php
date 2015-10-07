@@ -11,11 +11,9 @@
     <div class="container">
     <?php include 'topheader.php'; ?>
     <?php include 'navbar.php' ;?>
-    <div class="row">
     <h2 style="text-align:center;">
     ANNUAL ALUMNI MEET
     </h2>
-    </div>
     <div class="row">
         <img src="img\meet.jpg" width="1150 px";>
     </div>
@@ -32,7 +30,7 @@
         <h3> BATCHES INVITED </h3>
         In quis dapibus urna, ac cursus enim.<br><br>
         <h3><a href="#"> INVITATION BROCHURE </a></h3>
-		<a href="http://alumnimeet.iitkgp.ernet.in/"><br>
+		<a href="http://alumnimeet.iitkgp.ernet.in/" target="_blank"><br>
             <button class="btn btn-success" style="width:300px; height:50px">
             <font size="4.5">Visit Alumni Meet Website</font>
             </button>
@@ -45,7 +43,6 @@
 	<div class="container-fluid">
 	<div class="col-sm-4">
 	</div>
-	<?php include 'spons-slider.php'; ?>	
     <?php include 'footer.php';?>
 
     <?php include 'js_include.php';?>

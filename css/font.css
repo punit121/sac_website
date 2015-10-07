@@ -6,12 +6,14 @@
 body
 {
 font-family: 'barkentina 1';
+font-size: 1.25em;
 }
 
 p, div.container
 {
 font-family:'barkentina 1';
-font-size: 1.25em;
+font-size: 1.35em;
+word-spacing:0px;
 }
 
 h1#acell   
@@ -19,13 +21,13 @@ h1#acell
 text-align:center;
 font-family:'Adobe Heiti Std R';
 font-size:275%;
-word-spacing:10px;
+word-spacing:0px;
 }
 
 h2
 {
 font-weight:bold;
-word-spacing:10px;
+word-spacing:0px;
 font-size:200%;
 }
 

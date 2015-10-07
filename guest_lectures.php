@@ -19,43 +19,50 @@
 				<div class="heading">
 					<h1>Guest Lectures</h1>
 				</div>
-				<div class="myslider">
-					<img src="http://placehold.it/1150x300" >
-				</div>
-				<div class="main_content">
-				Continuing with its yearlong series of Guest Lectures by eminent alumni, the Students’ Alumni Ce
-				ll recently hostel Mr. Veerendra Jaitley, an alumnus of the ECE department, 1979. He delivered a motivational lecture with the theme ‘We Can, We Can’. 
-				The speech was received positively both by the student and the faculty alike. A week before that,
-				Mr. Anshuman Mishra, an alumnus of the Patel Hall delivered a lecture on Marketing.
-				This event was conducted in association with the Marketing and Advertising Club, Vinod Gupta School of Management.
-				</div>
-				<hr style="border:1px solid grey">
+					<img src="img/guest.jpg" width="1150px" height="300px">
+				<p>Since its inception in 1951, IIT Kharagpur has mentored some of the most eminent personalities in the history of the nation. The Guest Lectures provide a medium for the alumni to give back to the institute by imparting their experience to the students and preparing them for the real world. The topics are spread all over – from personality development to department related technical lectures.<br>
+				The guest lectures pave a way for interaction between the alumni and the current students. Having a large alumni base to learn from has always been an integral benefit of being a student of IIT Kharagpur and these lectures ensure exactly that. Moreover, this also provides the alumni with an opportunity to pitch their ideas or products to the student audience.<br>
+				IIT Kharagpur also organizes the Leadership Summit – an event where Kharagpur alumni who are reputed leaders in their respective fields come together on one platform and enthusiastically share the secrets to their success. This event is looked forward to by the students since it exposes them to a lot of a practical knowledge that can help them move up the corporate ladder with ease.<br>
+				Guest lectures form a very important part of the working of Students’ Alumni Cell by bridging the gap between alumni and students and bringing them closer together. They allow alumni to stay in touch with their Alma Mater and bring the students up to date with what they can achieve if they set their minds to it.</p>
 				<div class="our_speakers">
 					<h1>Our Speakers</h1>
-					<hr style="border:1px solid black">
 					<div class="speaker_images">
-						<div class="img" >
+						<div class="img" style="background-color:#ffcc99" >
 							<img src="img\guest lecture\s1.jpg" >
-							<div class="name"> Veerendra Jaitly</div>
+							<div class="name"> </div>
 						</div>	
-						<div class="img" style="background-color:#‎ff9966‬">	
+						<div class="img" style="background-color:#‎9eceff‬">	
 							<img src="img\guest lecture\s2.jpg"  >
 							<p class="name">Anshuman Mishra</p>
 						</div>
-						<div class="img">	
-							<img src="img\guest lecture\s3.jpg" >
+						<div class="img" style="background-color:#ffcc99">	
+							<img src="img\guest lecture\s3.jpg"  >
+							<p class="name">Anshuman Mishra</p>
+						</div>
+						<div class="img" style="background-color:#‎ff9966‬">	
+							<img src="img\guest lecture\s4.jpg"  >
+							<p class="name">Anshuman Mishra</p>
+						</div>
+						<div class="img" style="background-color:#ffcc99">	
+							<img src="img\guest lecture\s5.jpg"  >
+							<p class="name">Veerendra Jaitly</p>
+						</div>
+						<div class="img" style="background-color:£9eceff">	
+							<img src="img\guest lecture\s6.jpg"  >
+							<p class="name">Anshuman Mishra</p>
+						</div>
+						<div class="img" style="background-color:#ffcc99">	
+							<img src="img\guest lecture\s7.jpg" >
 							<p class="name">Name</p>
 						</div>	
-						<div class="img">	
-							<img src="img\guest lecture\s4.jpg" >
+						<div class="img" style="background-color:£9eceff">	
+							<img src="img\guest lecture\s8.jpg" >
 							<p class="name">Name</p>
 						</div>	
 					</div>
 				</div>
-				<hr style="border:1px solid grey">
 				<div class="videos">
 					<h1>Videos</h1>
-					<hr style="border:1px solid black">
 					<div class="vid">
 						<iframe class="frame" src="https://www.youtube.com/embed/gQ2AYloadeY" frameborder="0" allowfullscreen></iframe>
 					</div>
@@ -74,15 +81,14 @@
 						</a>
 					</div>
 				</div>
-				<hr style="border:1px solid grey">
 			</div>
-			<?php include 'spons-slider.php'; ?>
 			<?php
 				
-				include 'footer.php';
+				
 				include 'js_include.php';
 			?>
 		</div>
+		<?php include 'footer.php';?>
 		<script type="text/javascript" src="js/guest_lectures.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		

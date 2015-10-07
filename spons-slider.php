@@ -3,8 +3,8 @@
 <style type="text/css">
 
 div#wn { 
-	position:relative; left:4px;
-	width:1150px; height:140px; 
+	position:relative; left:5px;
+	width:1070px; height:140px; 
 	overflow:hidden;
 	margin-left:auto;
 	margin-right:auto;

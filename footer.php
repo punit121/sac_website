@@ -1,41 +1,43 @@
-<div class="footer">
+<div class="footer" >
 
-<div class="row">
-	 <div class="col-md-4" id="verticalLine" >
+<div class="row" style="position:relative;left:50px;">
+
+<div class="col-md-4" id="verticalLine" >
 	    
 			<br> 
 	 
-		 <div id="googleMap" style="width:350px;height:280px;float:left;"></div>
+		 <div id="googleMap" style="width:320px;height:210px;float:left;top:50px;"></div>
 		  
 		  
 		  
 	</div>
-		  
-	<div class="col-md-4" style="text-align:justify; font-size:90%; word-spacing:3px; color:white;">
-			<br><br><br><br>
+		<br><br>  
+	<div class="col-md-4" >
+			<br><br><p>
 		  Office of Alumni Affairs &amp; International Relations,<br>
 		  Indian Institute of Technology, Kharagpur<br>
 		  Pin-721302, West Bengal, India<br>
 		  Ph: 03222-282236 <br>
 		  Email: alumni@hijli.iitkgp.ernet.in
-	</div>
+	</p></div>
 	  
 	 <div class="col-md-4" style="float:left">
 	 
 	  <form action="submit.php" method="post">
-	  <h3><span class="glyphicon glyphicon-envelope"></span>Write to us</h3>
-	  <br> 
-	  <input type="text" name="email" placeholder="Email" style="width:320px"/>
+	  <h3>Write to us</h3>
+	 
+	  <input type="text" style="border-radius:4px;width:320px;" name="email" placeholder="Email" />
 	  <br>
 	  <br>
-	  <textarea name="comment" rows="5"  style="width:320px" placeholder="comments here" ></textarea>
+	  <textarea name="comment" rows="5"  style="border-radius:4px;width:320px;" placeholder="Your Message" ></textarea>
 	  <br>
-	  
-	  <input type="submit" class="btn btn-info" value="Submit"/>
+	  <br>
+	  <input type="submit" class="btn btn-info" style="width:320px;" value="Submit"/>
 	  
 	  </form>
 	  
 	  
 	  </div>
 </div>
+
 </div>

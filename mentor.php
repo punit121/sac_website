@@ -16,33 +16,23 @@
 </head>
 <body >      
 	<div class="container">
-		<br>
-			<?php include 'topheader.php';?><br><br>
+			<?php include 'topheader.php';?>
 		    <?php include 'navbar.php' ;?>
 	
 
 			<div class="row">
 			    
-				<div  class="col-sm-8" style="border-right:solid #ccc;"  >
+				<div  class="col-sm-8"   >
 				        <img src="img/mp.jpg" style="width:100%;height:90px;border-radius:5px;" >
 				     <br><br>
-					 <p>The Student Alumni Mentorship programme was started in session 2010-11 by the Students’ Alumni Cell
-					as an initiative to create a platform for the exchange of ideas and experience between the alumni and 
-					the current students of IIT Kharagpur.
-					With an ocean of possibilities available, students often find it difficult to decide their way out
-					into the future. There are lots of instances where students need a mentor who can counsel and guide 
-					them through. The alumni can improve students' insight into various aspects of life. Their journey 
-					and personal experiences can help the students and motivate them through this pivotal phase of life.
-					Under this programme, we invite our alumni from across the world and from different fields to interact
-					with the students and help them build their network and gain new perspective on the possibilities open
-					to them after graduation.
-					<br> <br>For availing this opportunity, register here for the programme..<br><br>
+					 <p style="text-align:justify">The Student Alumni Mentorship Programme, an initiative of the Students’ Alumni Cell, IIT Kharagpur was started in the academic session 2011-12, with a motive to help the current students to interact and learn from their Alumni on a personal level. It has been, ever since, a fruitful two-way platform for the exchange of ideas and experiences between the alumni and the current batches of IIT Kharagpur. Under this programme, we invite our alumni across the globe and from different fields to interact with the students and help them build their network and gain new perspective on the possibilities open to them, after graduation.<br>
+					For availing this opportunity, register here for the programme..<br><br>
 					<a href="http://www.mentorship.iitkgp.ernet.in/mainpage/index"><input type="submit" value="Students" class="btn btn-success btn-lg" style="width:250px;"></a>
 					<a href="http://www.mentorship.iitkgp.ernet.in/mainpage/index"><input type="submit" value="Alumni" class="btn btn-success btn-lg" style="width:250px;"></a>
 					</div>
 					<div class="col-sm-4" id="Demo">	
 					    <h2 class="center"> Prominent Alumni Registered for this Programme </h2>
-						<div class="marquee" style="height:500px;">					
+						<div class="marquee" style="height:400px;">					
 					   <ul class="list-group" data-spy="scroll" data-target=".navbar" data-offset="50" >
 						<li class="list-group-item prominent" id="1">Hardward Business School</li>
 						<li class="list-group-item prominent" id="4">Bank fo America</li>
@@ -93,9 +83,13 @@
 					</ul>
 			       </div>
 				</div>
-				<img src="http://placehold.it/1100x400  " align="middle";></img>
+				<div>
+				<br><br><img src="http://placehold.it/1150x300  " align="middle";></img>
+								<p style="text-align:justify">	 With the students facing crossroads at every other turn and unable to choose what’s best for them, due to a lack of insight into how things would actually materialize with each road that they choose to take, it becomes crucial that they get advice from people who have faced the very same crossroads in their student life and the big bad competitive world beyond it. The Alumni with their vast repository of personal experiences can help improve insight among students into so many diverse aspects of life which include academics, extra-curriculars, the professional life after college or the general way of life. This is where the Student Alumni Mentorship Programme comes into picture. It facilitates a medium where the student connects with an Alumnus from a field he has an a profound interest in. He gives his preference of field, year and place while registering online and he is accordingly allotted a mentor based on a predefined code. In the process of learning the ropes in that particular field he takes home so much more from the guide, coach, supporter and motivator, he finds in his mentor.<br><br>
+					 The Student Alumni Mentorship Programme is also an active step to keep the alumni in touch with all the happenings at IIT Kharagpur. The institute witnesses many changes from time to time. While some are quite evident like the construction and commencement of classes at the imposing new Nalanda Complex, a couple of years ago, others are a bit subtle like the formation of interesting new societies, changes in the General Championship standings and the intense heat surrounding it and all other bits of information that students know best. With an all year round interaction with the students, the Students Alumni Mentorship Programme ensures that the Alumni be in the know of the events as they occur and helps them relieve their own KGP days.
+
 			   </div>
-			   
+			   </div>
 <script>
 //proporcional speed counter (for responsive/fluid use)
 var widths = $('.marquee').width()
@@ -103,19 +97,18 @@ var duration = widths * 56;
 
 $('.marquee').marquee({
     //speed in milliseconds of the marquee
-    duration: duration, // for responsive/fluid use
+    duration:5000, // for responsive/fluid use
     //duration: 8000000, // for fixed container
     //gap in pixels between the tickers
     gap: $('.marquee').width(),
     //time in milliseconds before the marquee will start animating
     delayBeforeStart: 0,
     //'left' or 'right'
-    direction: 'up',
+    direction: 'down',
     //true or false - should the marquee be duplicated to show an effect of continues flow
-    duplicated: false
+    duplicated: true
 });
 </script>
-		<?php include 'spons-slider.php'; ?>
 		<?php include 'footer.php';?>
 		<?php include 'js_include.php';?>
 
