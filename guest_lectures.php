@@ -3,6 +3,11 @@
 	<head>
 		<title>Guest Lectures</title>
 		<link rel="stylesheet" href="css/guest_lectures.css">
+		<style>
+	.foo{
+		background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;padding:15px;
+	}
+	</style>
 	</head>
 	<body>
 		<div class="container">
@@ -88,7 +93,10 @@
 				include 'js_include.php';
 			?>
 		</div>
-		<?php include 'footer.php';?>
+		<div class="foo">
+			<?php include 'spons-slider.php' ;?>
+			<?php include 'footer.php';?>
+		</div>
 		<script type="text/javascript" src="js/guest_lectures.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		

@@ -4,6 +4,12 @@
   <title>Students' Alumni Cell &middot; IIT Kharagpur</title>
    <?php include 'metatags.php'; ?>
    <?php include 'css_include.php';?>  
+   	<style>
+	.foo{
+		background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;padding:15px;
+	}
+	</style>
+   
 </head>
 <body >        
 	<div class="container">
@@ -51,10 +57,14 @@
 </div>
 						
 				<hr>
-		<?php include 'footer.php';?>
-		<?php include 'js_include.php';?>
+		
+		
 
 	</div>
-
+	<div class="foo">
+		<?php include 'spons-slider.php' ;?>
+		<?php include 'footer.php';?>
+	</div>
+<?php include 'js_include.php';?>
 </body>
 </html>

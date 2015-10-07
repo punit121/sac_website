@@ -2,6 +2,11 @@
 <head>
 <title>Students' Alumni Cell &middot; IIT Kharagpur</title>
 <?php include 'css_include.php'; ?>
+<style>
+	.foo{
+		background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;padding:15px;
+	}
+	</style>
 </head>
 <body>
 
@@ -54,10 +59,14 @@ Each year, the Students’ Alumni Cell strives to make the yearbook as wholesome
 				</tr>
 			</tbody>
 </table>
-<?php include 'footer.php';?>
+
 	</div>
 
-<?php include 'js_include.php'; ?>
+	<div class="foo">
+<?php include 'spons-slider.php' ;?>
+<?php include 'footer.php';?>
+</div>
+<?php include 'js_include.php';?>
 </body>
 </html>
                             

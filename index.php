@@ -4,6 +4,11 @@
 		<title>Students' Alumni Cell &middot; IIT Kharagpur</title>
 		<?php include 'metatags.php'; ?>
 		<?php include 'css_include.php';?>
+		<style>
+	.foo{
+		background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;padding:15px;
+	}
+	</style>
 	</head>
 
 	<body >        
@@ -31,7 +36,7 @@
 	<?php include 'midbox.php' ;?>	
 </div>
 	
-		<div style="background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;">
+		<div class="foo">
 <?php include 'spons-slider.php' ;?>
 <?php include 'footer.php';?>
 </div>

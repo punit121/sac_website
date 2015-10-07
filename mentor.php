@@ -6,13 +6,18 @@
    <?php include 'css_include.php';?>  
    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
    <script type='text/javascript' src='//cdn.jsdelivr.net/jquery.marquee/1.3.1/jquery.marquee.min.js'></script>
+   
 <style>
 .marquee {
   width: 100%;
   overflow: hidden;
   padding: 20px 0px;
 }
-</style>
+
+	.foo{
+		background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;padding:15px;
+	}
+	</style>
 </head>
 <body >      
 	<div class="container">
@@ -90,6 +95,12 @@
 
 			   </div>
 			   </div>
+			   </div>
+		<div class="foo">
+<?php include 'spons-slider.php' ;?>
+<?php include 'footer.php';?>
+</div>
+<?php include 'js_include.php';?>	   
 <script>
 //proporcional speed counter (for responsive/fluid use)
 var widths = $('.marquee').width()
@@ -109,12 +120,8 @@ $('.marquee').marquee({
     duplicated: true
 });
 </script>
-		<?php include 'footer.php';?>
-		<?php include 'js_include.php';?>
+		
 
-	</div>
-<script>
 	
-   </script>
 </body>
 </html>

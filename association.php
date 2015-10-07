@@ -3,7 +3,11 @@
 		<title>Students' Alumni Cell &middot; IIT Kharagpur</title>
 		<?php include 'metatags.php'; ?>
 		<?php include 'css_include.php';?>
-		
+	 	<style>
+	.foo{
+		background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;padding:15px;
+	}
+	</style>	
 
 	</head>
 
@@ -30,30 +34,30 @@
 					<h4 class="modal-title">Get Associated With Us   </h4>
 				</div>
 				<div class="modal-body">
-					<form accept-charset="UTF-8" action="/mentors" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M6yvcdpx3ZcBl16iOYSxL6o5txo1qJx8oJrZ/D3159U=" /></div>
+					<form accept-charset="UTF-8" action="submit_association.php" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M6yvcdpx3ZcBl16iOYSxL6o5txo1qJx8oJrZ/D3159U=" /></div>
 
 <h3 class="center"> Basic Details </h3>
 
 
 <div class="field">
- <input type="text" style="width:500px;padding:6px;border-radius:5px;" placeholder="Person Name"><br><br>
+ <input type="text" name="Person Name" style="width:500px;padding:6px;border-radius:5px;" placeholder="Person Name"><br><br>
 </div>
 
 <div class="field">
-   <input type="text" style="width:500px;padding:6px;border-radius:5px;" placeholder="Company Name"><br><br>
+   <input type="text" name="Company Name" style="width:500px;padding:6px;border-radius:5px;" placeholder="Company Name"><br><br>
 </div>
 
 <div class="field">
-   <input type="text" style="width:500px;padding:6px;border-radius:5px;" placeholder="Email Id"><br><br>
+   <input type="text" name="Email Id" style="width:500px;padding:6px;border-radius:5px;" placeholder="Email Id"><br><br>
 </div>
 
 <div class="field">
-   <input type="text" style="width:500px;padding:6px;border-radius:5px;" placeholder="Phone No."><br><br>
+   <input type="text" name="Phone No." style="width:500px;padding:6px;border-radius:5px;" placeholder="Phone No."><br><br>
 </div>
 
 
 <div class="field">
-   <input type="text" style="width:500px;padding:6px;border-radius:5px;" placeholder="Address"><br><br>
+   <input type="text" name="Address" style="width:500px;padding:6px;border-radius:5px;" placeholder="Address"><br><br>
 </div>
 
 
@@ -282,9 +286,14 @@
     </a>
 		<br>
  
-	<?php include 'js_include.php';?>
+	
   </div>
-	<?php include 'footer.php';?>
+	<div class="foo">
+<?php include 'spons-slider.php' ;?>
+<?php include 'footer.php';?>
+</div>
+	
+	<?php include 'js_include.php';?>
 </body>
 
 </html>
