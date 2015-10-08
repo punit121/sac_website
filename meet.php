@@ -29,7 +29,7 @@
         <h4>15 Jan 2016 - 17 Jan 2016 </h4><br>
         <h3> BATCHES INVITED </h3>
         In quis dapibus urna, ac cursus enim.<br><br>
-        <h3><a href="#"> INVITATION BROCHURE </a></h3>
+        <h4><a href="files/13th Annual Alumni Meet- 2016.pdf"> Download Invitation Brochure </a></h4>
 		<a href="http://alumnimeet.iitkgp.ernet.in/" target="_blank"><br>
             <button class="btn btn-success" style="width:300px; height:50px">
             <font size="4.5">Visit Alumni Meet Website</font>
