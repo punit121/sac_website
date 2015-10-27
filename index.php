@@ -18,8 +18,8 @@
 		<div id="sliderFrame">
 			<div id="slider">
 				<img src="img/annualalumnimeet1.jpg" />
-				<img src="img/sam3.jpg" />
-				<img src="img/mentorship.jpg" />
+				<img src="img/sam4.jpg"/>
+				<img src="img/mentorship1.jpg" />
 				<img src="img/guestl.jpg" />
 				<img src="img/giving back.jpg" />
 				<img src="img/yoy.jpg" />
