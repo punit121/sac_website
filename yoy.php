@@ -38,43 +38,43 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 		<div class="row" >
 			<div class="col-md-6" >
 			<div class="image" style="padding:8px;">	
-			<img src="img/yoy/11.jpg" height="312" width="250">
+			<a href="yoy2015.pdf"><img src="img/yoy/5.jpg" height="312" width="250">
 			<br>
-			Yearning of Yore 2005
+			Yearning of Yore 2015</a>
 			</div></div>
 			<div class="col-md-6">
-			<div class="image" style=";padding:8px;">	
-			<img src="img/yoy/3.jpg" height="312" width="250">
-			<br>
-			Yearning of Yore 2006
-			</div></div>
-		</div>
-		<div class="row">
-			<div class="col-md-6" >
-			<div class="image" style="padding:8px;">	
-			<img src="img/yoy/2.jpg" height="312" width="250">
-			<br>
-			Yearning of Yore 2008
-			</div></div>
-			<div class="col-md-6">
-			<div class="image" style="padding:8px;">	
-			<img src="img/yoy/1.jpg" height="312" width="250">
-			<br>
-			Yearning of Yore 2010
-			</div></div>
-			</div>
-		<div class="row">
-			<div class="col-md-6" >
 			<div class="image" style=";padding:8px;">	
 			<img src="img/yoy/4.jpg" height="312" width="250">
 			<br>
 			Yearning of Yore 2014
 			</div></div>
+		</div>
+		<div class="row">
 			<div class="col-md-6" >
 			<div class="image" style="padding:8px;">	
-			<a href="yoy2015.pdf"><img src="img/yoy/5.jpg" height="312" width="250">
+			<img src="img/yoy/1.jpg" height="312" width="250">
 			<br>
-			Yearning of Yore 2015</a>
+			Yearning of Yore 2010
+			</div></div>
+			<div class="col-md-6">
+			<div class="image" style="padding:8px;">	
+			<img src="img/yoy/2.jpg" height="312" width="250">
+			<br>
+			Yearning of Yore 2008
+			</div></div>
+			</div>
+		<div class="row">
+			<div class="col-md-6" >
+			<div class="image" style=";padding:8px;">	
+			<img src="img/yoy/3.jpg" height="312" width="250">
+			<br>
+			Yearning of Yore 2006
+			</div></div>
+			<div class="col-md-6" >
+			<div class="image" style="padding:8px;">	
+			<img src="img/yoy/11.jpg" height="312" width="250">
+			<br>
+			Yearning of Yore 2005
 			</div></div>
 		</div>
 			
