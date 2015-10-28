@@ -76,34 +76,50 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 				
 			</ol>
 		  <!-- Wrapper for slides -->
-		  <div class="carousel-inner" role="listbox">
+		  <div class="carousel-inner" role="listbox" style="height:400px">
 			<div class="item active">
-			  <img src="img/guest-lecture/Bedabrata.jpg" width="1150" />
+				<div class="fill">
+			  <img src="img/guest-lecture/bedabrata.jpg" width="1150" />
+			</div>
 			</div>
 
 			<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/chetan.jpg"  width="1150" />
 			</div>
+		  </div>
 
 			<div class="item">
-			  <img src="img/guest-lecture/Manoj.jpg"  width="1150" />
+				<div class="fill">
+			  <img src="img/guest-lecture/manoj.jpg"  width="1150" />
 			</div>
+		  </div>
 
 			<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/pradip.jpg"  width="1150" />
 			</div>
+		  </div>
 				<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/rakesh.jpg"  width="1150" />
 			</div>
+		  </div>
 				<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/veerendra.jpg" width="1150"  />
 			</div>
+		  </div>
 				<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/venkatesh.jpg" width="1150"  />
 			</div>
+		  </div>
 				<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/peter.jpg"  width="1150" />
 			</div>
+		  </div>
 		  </div>
 
 		  <!-- Left and right controls -->
