@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>guest-lectures</title>
-		<link rel="stylesheet" href="css/guest_lectures.css">
+
 		<style>.foo{
 background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;margin-left:15px;	}</style>
 	</head>
@@ -27,40 +27,6 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 				<div class="our_speakers">
 					<h2>Our Speakers</h2><br>
     <br>
-					<!--<div class="speaker_images">
-						<div class="img" style="background-color:#ffcc99" >
-							<img src="img/guest-lecture/s1.jpg" >
-							<div class="name"> </div>
-						</div>	
-						<div class="img" style="background-color:#‎9eceff‬">	
-							<img src="img/guest-lecture/s2.jpg"  >
-							<p class="name">Anshuman Mishra</p>
-						</div>
-						<div class="img" style="background-color:#ffcc99">	
-							<img src="img/guest-lecture/s3.jpg"  >
-							<p class="name">Anshuman Mishra</p>
-						</div>
-						<div class="img" style="background-color:#‎ff9966‬">	
-							<img src="img/guest-lecture/s4.jpg"  >
-							<p class="name">Anshuman Mishra</p>
-						</div>
-						<div class="img" style="background-color:#ffcc99">	
-							<img src="img/guest-lecture/s5.jpg"  >
-							<p class="name">Veerendra Jaitly</p>
-						</div>
-						<div class="img" style="background-color:£9eceff">	
-							<img src="img/guest-lecture/s6.jpg"  >
-							<p class="name">Anshuman Mishra</p>
-						</div>
-						<div class="img" style="background-color:#ffcc99">	
-							<img src="img/guest-lecture/s7.jpg" >
-							<p class="name">Name</p>
-						</div>	
-						<div class="img" style="background-color:£9eceff">	
-							<img src="img/guest-lecture/s8.jpg" >
-							<p class="name">Name</p>
-						</div>	
-					</div>-->
 			<div class="row">
 							<div id="myCarousel" class="carousel slide" data-ride="carousel">
 		  <!-- Indicators -->

@@ -105,7 +105,7 @@
 						<li><a href="meet.php" >ANNUAL ALUMNI MEET</a></li>
 						<li><a href="sam.php" >STUDENTS' ALUMNI MEET</a></li>
 						<li><a href="guest_lectures.php" >GUEST LECTURES</a></li>
-						<li><a href="leadership_summit2.php" >LEADERSHIP SUMMIT</a></li>
+						<li><a href="leadership_summit.php" >LEADERSHIP SUMMIT</a></li>
 						<li><a href="alvida.php" >ALVIDA</a></li>
 					 </ul>
 					</li>
@@ -123,7 +123,7 @@
 					 </ul>
 					</li>
                      
-                      <li><a href="contact_new.php" >THE TEAM</a></li>
+                      <li><a href="contact.php" >THE TEAM</a></li>
                       <li><a href="chapter.php" >ALUMNI CHAPTERS</a></li>
 					  <li><a href="association.php" >ASSOCIATION</a></li>
                 </ul>

@@ -22,7 +22,7 @@
 	<div class="container">
 	<?php include 'topheader.php';?>	
 	<?php include 'navbar.php' ;?>
-	<img src="img\alvida.jpg" width="1150px"/><br><br>
+	<img src="img\indexslider\alvida.jpg" width="1150px"/><br><br>
 	<div class="row">
 	<div class="col-md-8"  style="text-align:justify;text-align:center">
 	<h2>ALVIDA</h2><hr>

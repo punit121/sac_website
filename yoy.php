@@ -24,7 +24,7 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 	<?php include 'navbar.php' ;?>
 		<h2 style="text-align:center">YEARNINGS OF YORE</h2><br><br>
 
-		<img src="img/yoy.jpg" width="1150">
+		<img src="img/indexslider/yoy.jpg" width="1150">
 	<div class="row">
 		<p style="text-align:justify;padding:35px;">
 		Yearnings of Yore is an assorted collection of memoirs, which contains literary pieces and photographs/sketches collected from the alumni. The meaning is clear from the name itself which expresses a longing for former times The Magazine is given as a souvenir to all alumni attending the meet. It aims to create a sense of nostalgia among the alumni community through literary pieces relating to their time in the institute. It helps the alumni reconnect to long lost memories  hidden under the vacuum of time.<br>
@@ -40,13 +40,13 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 			<div class="image" style="padding:8px;">	
 			<a href="yoy2015.pdf"><img src="img/yoy/5.jpg" height="312" width="250">
 			<br>
-			Yearning of Yore 2015</a>
+			Yearnings of Yore 2015</a>
 			</div></div>
 			<div class="col-md-6">
 			<div class="image" style=";padding:8px;">	
 			<img src="img/yoy/4.jpg" height="312" width="250">
 			<br>
-			Yearning of Yore 2014
+			Yearnings of Yore 2014
 			</div></div>
 		</div>
 		<div class="row">
@@ -54,13 +54,13 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 			<div class="image" style="padding:8px;">	
 			<img src="img/yoy/1.jpg" height="312" width="250">
 			<br>
-			Yearning of Yore 2010
+			Yearnings of Yore 2010
 			</div></div>
 			<div class="col-md-6">
 			<div class="image" style="padding:8px;">	
 			<img src="img/yoy/2.jpg" height="312" width="250">
 			<br>
-			Yearning of Yore 2008
+			Yearnings of Yore 2008
 			</div></div>
 			</div>
 		<div class="row">
@@ -68,13 +68,13 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 			<div class="image" style=";padding:8px;">	
 			<img src="img/yoy/3.jpg" height="312" width="250">
 			<br>
-			Yearning of Yore 2006
+			Yearnings of Yore 2006
 			</div></div>
 			<div class="col-md-6" >
 			<div class="image" style="padding:8px;">	
 			<img src="img/yoy/11.jpg" height="312" width="250">
 			<br>
-			Yearning of Yore 2005
+			Yearnings of Yore 2005
 			</div></div>
 		</div>
 			

@@ -18,7 +18,7 @@ background-image:url('img/vinay.png');width:1315px;background-repeat:no-repeat;m
     ANNUAL ALUMNI MEET
     </h2><br><br>
     <div class="row">
-        <img src="img\annualalumnimeet1.jpg" width="1150 px";>
+        <img src="img/indexslider/annualalumnimeet1.jpg" width="1150 px";>
     </div>
     <div class="row" >
 		<div class="col-md-8" style="text-align:justify;padding:20px;">
@@ -45,7 +45,7 @@ background-image:url('img/vinay.png');width:1315px;background-repeat:no-repeat;m
 	</div>
 	<hr>
 	<h2 style="text-align:left">Moments</h2>
-	<?php include 'internal slider.php'?>
+	<?php include 'internalslider.php'?>
 	<div class="container-fluid">
 	<div class="col-sm-4">
 	</div>

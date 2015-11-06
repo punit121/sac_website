@@ -38,7 +38,7 @@ Students thus directly get to learn from alumni who have faced the trials of lif
 <div  class="col-sm-4" >
 <div  style="padding:10px; background-color:#ffcc99">
 <h3>For Alumni</h3>
-<img src="img/icons/studentlogo.png" align="middle"; width="60px" height="60px"/>
+<img src="img/icons/alumni.png" align="middle"; width="60px" height="60px"/>
 <hr>
 <p class="col3_font">The Students’ Alumni Cell works towards ensuring mutual benefit of the Students as well as the Alumni. The cell helps alumni in staying connected to the institute...
 <button type="button" style="background-color:#ffcc99"  data-toggle="modal" data-target="#registermentor1" style="width:100px;">See more</button>
@@ -70,7 +70,7 @@ and if and when we are able to pull it off in the alumni it fills our chests wit
 <div  class="col-sm-4">
 <div  style="padding:10px;text-align:center; background-color:#87CEEB;">
 <h3>For Institute</h3>        
-<img src="img/icons/vinay.png" align="middle"; width="60px" height="60px">
+<img src="img/icons/institute.png" align="middle"; width="60px" height="60px">
 <hr>
 <p class="col3_font">The alumni of an institute are always interested in its workings and the prevalent conditions.
 Students' Alumni Cell reconnects the institute and alumni...<button type="button" style="background-color:#87CEEB" data-toggle="modal" data-target="#registermentor2" style="width:100px;">See more</button>

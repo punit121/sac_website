@@ -7,8 +7,7 @@
 	 <style>
 
     .foo{
-		background-image:url('img/vinay.png');width:1315px;background-repeat:no-repeat;padding:15px;
-		
+		background-image:url('img/vinay.png');width:1315px;background-repeat:no-repeat;padding:15px;		
 	}				
 	</style>
 	 
@@ -30,7 +29,7 @@
 				<div class="row">
 				<div  class="col-sm-6">
 				<h3>Class Gift 2015</h3>
-				<img src="img/latest programs/class gift.jpg" width="500px"/>
+				<img src="img/latest programs/classgift.jpg" width="500px"/>
 				</div>
 				<div  class="col-sm-6"  >
 				<h3>Class Gift 2014</h3>

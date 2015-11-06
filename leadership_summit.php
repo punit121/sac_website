@@ -1,14 +1,11 @@
 <html>
-	<head>
-	<link href="css/summit.css" rel="stylesheet" type="text/css">
-	
+	<head>	
 	<title>Students' Alumni Cell &middot; IIT Kharagpur</title>
 		<?php include 'metatags.php'; ?>
 		<?php include 'css_include.php';?>
 			<style>
 	.foo{
-		background-image:url('img/vinay.png');width:1315px;background-repeat:no-repeat;padding:15px;
-	}
+background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;margin-left:15px;	}
 	</style>
 	</head>
 	<body>
@@ -42,12 +39,12 @@
 	<div class="col">
 			<div class="col-md-6" >
             	<div class="row bg-light" >
-            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\arunabh kumar.jpg" height="200px" style="border-radius: 100%"></div></div>
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\arunabhkumar.jpg" height="200px" style="border-radius: 100%"></div></div>
                     <div  class="col-md-8">
                     	<h3>ARUNABH KUMAR</h3>
                         <h4>FOUNDER & CEO</h4>
-                    	<p>THE VIRAL FEVER
-						</p>
+                    	THE VIRAL FEVER
+						
 						
 					</div>
                 </div>
@@ -59,7 +56,7 @@
                     <div  class="col-md-8">
                     	<h3>S.V.MANI</h3>
                         <h4>VICE PRESIDENT</h4>
-                    	<p>TATA CONSULTANCY SERVICE</p>
+                    	TATA CONSULTANCY SERVICE
 					</div>
                 </div>
             </div>
@@ -68,12 +65,12 @@
 	<div class="col">
 			<div class="col-md-6">
             	<div class="row bg-light" >
-            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\2.jpg"height="200px" style="border-radius: 100%"></div></div>
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\prasadrmenon.jpg"height="200px" width="200px"style="border-radius: 100%"></div></div>
                     <div  class="col-md-8">
-                    	<h3>SUBRATA PAUL</h3>
-                        <h4>CEO & DIRECTOR</h4>
-                    	<p>BENGAL AERTROPOLIS<br> PROJECTS LIMITED
-						</p>
+                    	<h3>P R MENON</h3>
+                        <h4>MANAGING DIRECTOR</h4>
+                    	JOINT VENTURE OF<br>TATA & SINGAPORE AIRLINES
+						
 						
 					</div>
                 </div>
@@ -85,7 +82,7 @@
                     <div  class="col-md-8">
                     	<h3>ASHOK KHEMKA</h3>
                         <h4>DG</h4>
-                    	<p>ARCHIVES AND ARCHAEOLOGY,HARYANA</p>
+                    	ARCHIVES AND ARCHAEOLOGY,HARYANA
 					</div>
                 </div>
             </div>
@@ -94,30 +91,129 @@
 	<div class="col">
 			<div class="col-md-6">
             	<div class="row bg-light" >
-            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\4.jpg"height="200px" style="border-radius: 100%"></div></div>
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\arjunmalhotra.jpg"height="200px" width="200px" style="border-radius: 100%"></div></div>
                     <div  class="col-md-8">
-                    	<h3>PESHWA ACHARYA</h3>
-                        <h4>CEO</h4>
-                    	<p>AASAANPAY SOLUTIONS INDIA PRIVATE LIMITED
-						</p>
+                    	<h3>ARJUN MALHOTRA</h3>
+                        <h4>CHAIRMAN</h4>
+                    	HEADSTRONG<br> PROJECTS LIMITED
+					
 						
 					</div>
                 </div>
             </div>
-    </div>    
-            <div class=" col-md-6 ">
+    </div>        
+	                <div class=" col-md-6 ">
             	<div class="row bg-light" >
-            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\5.jpeg"height="200px" style="border-radius: 100%"></div></div>
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\gopalrajgarhia.jpg"height="200px" width="200px" style="border-radius: 100%"></div></div>
                     <div  class="col-md-8">
-                    	<h3>TULSI DAS BANERJEE</h3>
-                        <h4>VICE PRESIDENT & HEAD-STRATEGY</h4>
-                    	<p>TIL LTD KOLKATA</p>
+                    	<h3>SHRI GOPAL RAJGARHIA</h3>
+                        <h4>MANAGING DIRECTOR </h4>
+                    	ORIENT ABRASIVES LIMITED
 					</div>
                 </div>
             </div>
 </div>
 		
 	</div>
+		<div style="text-align:center;">
+	<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#registermentor" style="width:300px;">
+						View more
+					</button>
+	</div>				
+					<div class="modal fade" id="registermentor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width:1200px;">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title">Our Speakers </h4>
+				</div>
+				<div class="modal-body" style="text-align:center;">
+				
+<div class="row">
+	<div class="col">
+			<div class="col-md-6" >
+            	<div class="row bg-light" >
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\subhaschandersarin.jpg" height="200px" width="200px" style="border-radius: 100%"></div></div>
+                    <div  class="col-md-8">
+                    	<h3>SUBHAS CHANDER SARIN</h3>
+                        <h4>FOUNDER & CEO</h4>
+                    	THE VIRAL FEVER
+						
+						
+					</div>
+                </div>
+            </div>
+   </div>    
+            <div class=" col-md-6 " >
+            	<div class="row bg-light" >
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\sakyasinharoy.jpg "height="200px" style="border-radius: 100%"></div></div>
+                    <div  class="col-md-8">
+                    	<h3>SAKYA SINHA ROY</h3>
+                        <h4>VICE PRESIDENT</h4>
+                    	TATA CONSULTANCY SERVICE
+					</div>
+                </div>
+            </div>
+</div>
+
+<div class="row">
+	<div class="col">
+			<div class="col-md-6">
+            	<div class="row bg-light" >
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\4.jpg"height="200px" width="200px" style="border-radius: 100%"></div></div>
+                    <div  class="col-md-8">
+                    	<h3>PESHWA ACHARYA</h3>
+                        <h4>CEO</h4>
+                    	AASAANPAY SOLUTIONS INDIA PRIVATE LIMITED
+						
+						
+					</div>
+                </div>
+            </div>
+    </div>
+
+            <div class=" col-md-6 ">
+            	<div class="row bg-light" >
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\anjanraichaudhuri.jpg" height="200px" style="border-radius: 100%"></div></div>
+                    <div  class="col-md-8"> 
+                    	<h3>ANJAN RAICHAUDHURI</h3>
+                        <h4>DG</h4>
+                    	ARCHIVES AND ARCHAEOLOGY,HARYANA</p>
+					</div>
+                </div>
+            </div>
+</div>
+<div class="row">
+	<div class="col">
+			<div class="col-md-6">
+            	<div class="row bg-light" >
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\arjunmalhotra.jpg"height="200px" width="200px" style="border-radius:100%"></div></div>
+                    <div  class="col-md-8">
+                    	<h3>SUBRATA PAUL</h3>
+                        <h4>CEO & DIRECTOR</h4>
+                    	BENGAL AERTROPOLIS<br> PROJECTS LIMITED
+						</p>
+						
+					</div>
+                </div>
+            </div>
+    </div>  
+            <div class=" col-md-6 ">
+            	<div class="row bg-light" >
+            		<div class="col-md-4"><div class="row"><img src="img\leadership speakers\5.jpeg"height="200px" style="border-radius: 100%"></div></div>
+                    <div  class="col-md-8">
+                    	<h3>TULSI DAS BANERJEE</h3>
+                        <h4>VICE PRESIDENT & HEAD-STRATEGY</h4>
+                    	TIL LTD KOLKATA</p>
+					</div>
+                </div>
+            </div>
+</div>
+	</div>
+				</div>
+			</div>
+		</div>
+	</div>			
 	<div class="foo">
 <?php include 'spons-slider.php' ;?>
 <?php include 'footer.php';?>
