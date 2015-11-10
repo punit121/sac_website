@@ -20,7 +20,7 @@
 	 </div>
 	 
 	 <div>
-	  <h2 >Testimonials</h2></div><hr><div  class="col-sm-3" style="background-color:#ff9966; height:430px; margin-left:5%">
+	  <h2 >Testimonials</h2></div><hr><div  class="col-sm-3" style="box-shadow:-2px -2px 7px #ccc; height:430px; margin-left:5%">
 	  <img src="img/d.png" style="float:left;margin-top:0px">
 		 <div class="marquee" >
 		 
