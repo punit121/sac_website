@@ -2,7 +2,6 @@
 <style>
 .navbar-default {
   background-color: #003366;
-  padding: 5px;
   border-color: #089DE3;
 	font-family:Julis;
   font-size: .8em;
