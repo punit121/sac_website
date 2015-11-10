@@ -20,8 +20,11 @@
 	<?php include 'column4.php' ;?>
 	<?php include 'midbox.php' ;?>	
      </div>
-		
-
+<div style="background-image:url('img/vinay.png');width:1315px;background-repeat:no-repeat;margin-left:15px;">
+<?php include 'spons-slider.php' ;?>
+<?php include 'footer.php';?>
+</div>		
+</div>
 <script src="http://thecodeplayer.com/uploads/js/prefixfree-1.0.7.js" type="text/javascript"></script>
 <?php include 'js_include.php';?>
 	</body>
