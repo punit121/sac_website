@@ -64,6 +64,7 @@ div#inner1 img {
 </div>
 </div>  
 </div>
+<script src="js/dw_con_scroller.js" type="text/javascript"></script>
 <script type="text/javascript">
 
 if ( DYN_WEB.Scroll_Div.isSupported() ) {
