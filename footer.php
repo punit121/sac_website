@@ -3,7 +3,7 @@
 <div class="row" style="position:relative;left:85px;">
 
 <div class="col-md-4" id="verticalLine" >
-	 
+	 	
 		 <div id="googleMap" style="width:320px;height:210px;float:left;top:50px;"></div>
 		  
 		  

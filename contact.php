@@ -17,7 +17,7 @@ background-image:url('vinay.png');width:1330px;background-repeat:no-repeat;margi
 		?>
 		
 		<div class="contacts">
-		<h2 style="text-align:center;">Office of Alumni Affairs and International Relations</h2>
+		<h2 style="text-align:center;margin-top:40px;">Office of Alumni Affairs and International Relations</h2>
 		<div class="photos">
 			<div class="row">
 				<div class="col-md-12 mem_dean">

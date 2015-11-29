@@ -22,7 +22,7 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 	<div class="container">
 	<?php include 'topheader.php';?>	
 	<?php include 'navbar.php' ;?>
-		<h2 style="text-align:center">YEARNINGS OF YORE</h2><br><br>
+		<h2 style="text-align:center;margin-top:80px;">YEARNINGS OF YORE</h2><br><br>
 
 		<img src="img/indexslider/yoy.jpg" width="1150">
 	<div class="row">

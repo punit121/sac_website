@@ -19,7 +19,7 @@
 	<div class="container"  >
 	<?php include 'topheader.php';?>
 	<?php include 'navbar.php' ;?>
-	<h2 >ALUMNI CHAPTERS</h2>
+	<h2  margin-top:80px;>ALUMNI CHAPTERS</h2>
 	
 	<p style="text-align:justify;"> The time spent at IIT Kharagpur is cited by its students to have been the most memorable and cherishable time of their lives. The friends they made here, the things they learned and the experiences they shared are what make them the success that they are. So it is indeed heartbreaking to let go of all these times and part from the institute reminiscing over the golden days spent here. To treasure these moments we have Alvida - the annual farewell dinner held for the passing out batch to get together and share their memorable stories of the moments they spent in the institute.</p><br>
 	

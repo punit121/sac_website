@@ -15,7 +15,7 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 	<?php include 'topheader.php';?>
 	<?php include 'navbar.php' ;?>
 	
-	<h2 style="text-align:center;">
+	<h2 style="text-align:center;margin-top:100px;">
 	LEADERSHIP SUMMIT
 	</h2>
 	<div class="row">

@@ -18,7 +18,7 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 			?>
 			
 			
-					<h2>GUESTS LECTURES</h2><br><br>
+					<h2 margin-top:80px;>GUESTS LECTURES</h2><br><br>
 					<img src="img/guest.jpg" width="1150px" height="300px"/>
 				<p  style="padding:30px;">Since its inception in 1951, IIT Kharagpur has mentored some of the most eminent personalities in the history of the nation. The guest-lectures provide a medium for the alumni to give back to the institute by imparting their experience to the students and preparing them for the real world. The topics are spread all over - from personality development to department related technical lectures.<br>
 				The guest-lectures pave a way for interaction between the alumni and the current students. Having a large alumni base to learn from has always been an integral benefit of being a student of IIT Kharagpur and these lectures ensure exactly that. Moreover, this also provides the alumni with an opportunity to pitch their ideas or products to the student audience.<br>

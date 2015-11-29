@@ -14,7 +14,7 @@ background-image:url('img/vinay.png');width:1315px;background-repeat:no-repeat;m
     <div class="container">
     <?php include 'topheader.php'; ?>
     <?php include 'navbar.php' ;?>
-    <h2 style="text-align:center;">
+    <h2 style="text-align:center;margin-top:80px;">
     ANNUAL ALUMNI MEET
     </h2><br><br>
     <div class="row">
