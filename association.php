@@ -17,9 +17,9 @@ background-image:url('img/vinay.png');width:1315px;background-repeat:no-repeat;m
 	<?php include 'topheader.php';?>
 	<?php include 'navbar.php' ;?>
 	
-	<div class="row">
+	<div class="row" style="margin-top:100px;">
 	<div class="col-md-3">
-  <h2>Associate With Us  </h2><hr>
+  <h2>Associate With Us  </h2><hr><br><br>
     
 	
 
