@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>guest-lectures</title>
-		<link rel="stylesheet" href="css/guest_lectures.css">
+
 		<style>.foo{
 background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;margin-left:15px;	}</style>
 	</head>
@@ -18,7 +18,7 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 			?>
 			
 			
-					<h2>GUESTS LECTURES</h2><br><br>
+					<h2 margin-top:80px;>GUESTS LECTURES</h2><br><br>
 					<img src="img/guest.jpg" width="1150px" height="300px"/>
 				<p  style="padding:30px;">Since its inception in 1951, IIT Kharagpur has mentored some of the most eminent personalities in the history of the nation. The guest-lectures provide a medium for the alumni to give back to the institute by imparting their experience to the students and preparing them for the real world. The topics are spread all over - from personality development to department related technical lectures.<br>
 				The guest-lectures pave a way for interaction between the alumni and the current students. Having a large alumni base to learn from has always been an integral benefit of being a student of IIT Kharagpur and these lectures ensure exactly that. Moreover, this also provides the alumni with an opportunity to pitch their ideas or products to the student audience.<br>
@@ -27,40 +27,6 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 				<div class="our_speakers">
 					<h2>Our Speakers</h2><br>
     <br>
-					<!--<div class="speaker_images">
-						<div class="img" style="background-color:#ffcc99" >
-							<img src="img/guest-lecture/s1.jpg" >
-							<div class="name"> </div>
-						</div>	
-						<div class="img" style="background-color:#‎9eceff‬">	
-							<img src="img/guest-lecture/s2.jpg"  >
-							<p class="name">Anshuman Mishra</p>
-						</div>
-						<div class="img" style="background-color:#ffcc99">	
-							<img src="img/guest-lecture/s3.jpg"  >
-							<p class="name">Anshuman Mishra</p>
-						</div>
-						<div class="img" style="background-color:#‎ff9966‬">	
-							<img src="img/guest-lecture/s4.jpg"  >
-							<p class="name">Anshuman Mishra</p>
-						</div>
-						<div class="img" style="background-color:#ffcc99">	
-							<img src="img/guest-lecture/s5.jpg"  >
-							<p class="name">Veerendra Jaitly</p>
-						</div>
-						<div class="img" style="background-color:£9eceff">	
-							<img src="img/guest-lecture/s6.jpg"  >
-							<p class="name">Anshuman Mishra</p>
-						</div>
-						<div class="img" style="background-color:#ffcc99">	
-							<img src="img/guest-lecture/s7.jpg" >
-							<p class="name">Name</p>
-						</div>	
-						<div class="img" style="background-color:£9eceff">	
-							<img src="img/guest-lecture/s8.jpg" >
-							<p class="name">Name</p>
-						</div>	
-					</div>-->
 			<div class="row">
 							<div id="myCarousel" class="carousel slide" data-ride="carousel">
 		  <!-- Indicators -->
@@ -76,34 +42,50 @@ background-image:url('img/vinay.png');width:1330px;background-repeat:no-repeat;m
 				
 			</ol>
 		  <!-- Wrapper for slides -->
-		  <div class="carousel-inner" role="listbox">
+		  <div class="carousel-inner" role="listbox" style="height:400px">
 			<div class="item active">
-			  <img src="img/guest-lecture/Bedabrata.jpg" width="1150" />
+				<div class="fill">
+			  <img src="img/guest-lecture/bedabrata.jpg" width="1150" />
+			</div>
 			</div>
 
 			<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/chetan.jpg"  width="1150" />
 			</div>
+		  </div>
 
 			<div class="item">
-			  <img src="img/guest-lecture/Manoj.jpg"  width="1150" />
+				<div class="fill">
+			  <img src="img/guest-lecture/manoj.jpg"  width="1150" />
 			</div>
+		  </div>
 
 			<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/pradip.jpg"  width="1150" />
 			</div>
+		  </div>
 				<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/rakesh.jpg"  width="1150" />
 			</div>
+		  </div>
 				<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/veerendra.jpg" width="1150"  />
 			</div>
+		  </div>
 				<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/venkatesh.jpg" width="1150"  />
 			</div>
+		  </div>
 				<div class="item">
+				<div class="fill">
 			  <img src="img/guest-lecture/peter.jpg"  width="1150" />
 			</div>
+		  </div>
 		  </div>
 
 		  <!-- Left and right controls -->

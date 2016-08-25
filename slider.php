@@ -1,1 +1,1 @@
-<div id="sliderFrame">        <div id="slider">			<img src="img/1.jpg" alt="zero"/>            <img src="img/7.jpg" alt="first"/>            <img src="img/8.jpg" alt="second"/>            <img src="img/1.jpg" alt="third"/>            <img src="img/7.jpg" alt="fourth"/>        </div>    </div>
+<div id="sliderFrame"> <div id="slider">  <img src="img/1.jpg" alt="zero"/>  <img src="img/7.jpg" alt="first"/>  <img src="img/8.jpg" alt="second"/>  <img src="img/1.jpg" alt="third"/>  <img src="img/7.jpg" alt="fourth"/> </div></div>

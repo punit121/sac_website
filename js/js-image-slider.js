@@ -11,7 +11,7 @@ var sliderOptions=
 	hoverPause: 1,
 	autoAdvance: true,
 	captionOpacity: 0.3,
-	captionEffect: "series1",
+	captionEffect: "series11",
 	thumbnailsWrapperId: "thumbs",
 	m: false,
 	license: "mylicense"

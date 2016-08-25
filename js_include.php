@@ -125,9 +125,8 @@ $(".flp input").blur(function(){
 })
 </script>
 
-
-
-
+<script src="js/dw_con_scroller.js" type="text/javascript"></script>
+<script src="sweetalert-master/dist/sweetalert-dev.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>

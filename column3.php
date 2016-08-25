@@ -1,16 +1,18 @@
 <head>
 <style type="text/css">
 p{text-align:justify;}
+.button{background-color: transparent;}
 </style>
 </head>
 <div class="row">
 <div  class="col-sm-4" >
-<div  style="padding:10px;text-align:center; background-color:#87CEEB;">
-<h3>For Students</h3>
-<img src="img/icons/students.png" align="middle"; width="60px" height="60px">
+<div  style="padding:10px;text-align:center;">
+<img src="img/icons/students.png" align="middle"; width="120px" height="120px">
+<h3>Students</h3>
 <hr>
-<p class="col3_font">Students' Alumni Cell works in conjunction with the student administration bodies and is therefore constantly in touch with the needs and wants of the students...
-<button type="button" style="background-color:#87CEEB" data-toggle="modal" data-target="#registermentor" style="width:100px;">See more</button>
+<p class="col3_font">Students' Alumni Cell works in conjunction with the student administration bodies..<br>
+	<button type="button"   data-toggle="modal" data-target="#registermentor" style="width:100px;background-color:transparent">See more</button>
+
 <div class="modal fade" id="registermentor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 <div class="modal-dialog">
 <div class="modal-content">
@@ -36,12 +38,12 @@ Students thus directly get to learn from alumni who have faced the trials of lif
 </div>
 
 <div  class="col-sm-4" >
-<div  style="padding:10px; background-color:#ffcc99">
-<h3>For Alumni</h3>
-<img src="img/icons/studentlogo.png" align="middle"; width="60px" height="60px"/>
+<div  style="padding:10px;">
+<img src="img/icons/alumni.png" align="middle"; width="120px" height="120px">
+<h3>Alumni</h3>
 <hr>
-<p class="col3_font">The Students’ Alumni Cell works towards ensuring mutual benefit of the Students as well as the Alumni. The cell helps alumni in staying connected to the institute...
-<button type="button" style="background-color:#ffcc99"  data-toggle="modal" data-target="#registermentor1" style="width:100px;">See more</button>
+<p class="col3_font">The Students’ Alumni Cell works towards ensuring mutual benefit of the Students as well as the Alumni. <br>
+<button type="button"   data-toggle="modal" data-target="#registermentor1" style="width:100px;background-color:transparent">See more</button>
 <div class="modal fade" id="registermentor1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 <div class="modal-dialog">
 <div class="modal-content">
@@ -68,12 +70,12 @@ and if and when we are able to pull it off in the alumni it fills our chests wit
 </div>
 
 <div  class="col-sm-4">
-<div  style="padding:10px;text-align:center; background-color:#87CEEB;">
-<h3>For Institute</h3>        
-<img src="img/icons/vinay.png" align="middle"; width="60px" height="60px">
+<div  style="padding:10px;text-align:center;">
+<img src="img/icons/institute.png" align="middle"; width="120px" height="120px">
+<h3>Institute</h3>        
 <hr>
-<p class="col3_font">The alumni of an institute are always interested in its workings and the prevalent conditions.
-Students' Alumni Cell reconnects the institute and alumni...<button type="button" style="background-color:#87CEEB" data-toggle="modal" data-target="#registermentor2" style="width:100px;">See more</button>
+<p class="col3_font">The alumni of an institute are always interested in its workings and the prevalent conditions.<br>
+<button type="button" style="background-color:transparent" data-toggle="modal" data-target="#registermentor2" style="width:100px;">See more</button>
 <div class="modal fade" id="registermentor2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 <div class="modal-dialog">
 <div class="modal-content">

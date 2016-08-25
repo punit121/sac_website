@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="internalslider.css">
+<link rel="stylesheet" href="css/internalslider.css">
 </head>
 <body>
 <center><div class="slider">

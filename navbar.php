@@ -1,53 +1,87 @@
 <head>
 <style>
+
+.navbar-default .navbar-nav>li>a{
+color: #337ab7 !important;
+transition: width 0.3s linear;
+-moz-transition: all 0.3s linear;
+-webkit-transition: all 0.3s linear;
+-o-transition: all 0.3s linear;
+
+}
+
+.nav{
+  padding-top: 20px;
+  transition: width 0.3s linear;
+  -moz-transition: all 0.3s linear;
+-webkit-transition: all 0.3s linear;
+-o-transition: all 0.3s linear;
+
+}
+
 .navbar-default {
-  background-color: #003366;
+  background-color: rgba(255,255,255,0.9);
   padding: 5px;
-  border-color: #089DE3;
+  border-color: white;
 	font-family:Julis;
-  font-size: .8em;
+  font-weight: bold;
+  font-size: .7em;
+  margin-bottom: 0px;
+  height: 90px;
+  transition: width 0.3s linear;
+  -moz-transition: all 0.3s linear;
+-webkit-transition: all 0.3s linear;
+-o-transition: all 0.3s linear;
+}
+
+.navbar-brand{
+  transition: width 0.3s linear;
+   -moz-transition: all 0.3s linear;
+-webkit-transition: all 0.3s linear;
+-o-transition: all 0.3s linear;
+
 }
 .navbar-default .navbar-brand {
-  color: #ffffff;
+
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-  color: #FCFFF5;
+ 
 }
 .navbar-default .navbar-text {
 
-  color: #ffffff;
+  
 }
 .navbar-default .navbar-nav > li > a {
-  color: #ffffff;
+ 
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-  color: #FCFFF5;
-  background-color: #3399ff;
+ 
 }
 .navbar-default .navbar-nav > li > .dropdown-menu {
-  background-color: #003366;
+  background-color: white;
 }
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a {
-  color: #ffffff;
+  color: #337ab7;
+  font-weight: bold;
 }
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
-  color: #FCFFF5;
-  background-color: #3399ff;
+  
+  
 }
 .navbar-default .navbar-nav > li > .dropdown-menu > li > .divider {
-  background-color: #089DE3;
+  background-color: #C9C9C9;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-  color: #FCFFF5;
+  
   background-color: #3399ff;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-  color: #FCFFF5;
-  background-color: #089DE3;
+
+  background-color: #C9C9C9;
 }
 .navbar-default .navbar-toggle {
-  border-color: #089DE3;
+  border-color: #C9C9C9;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
   background-color: #3399ff;
@@ -60,33 +94,33 @@
   border-color: #ffffff;
 }
 .navbar-default .navbar-link {
-  color: #ffffff;
+ 
 }
 .navbar-default .navbar-link:hover {
-  color: #ffffff;
+
 }
 
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #ffffff;
+    
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #ffffff;
+    
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #ffffff;
-    background-color: #089DE3;
+    
+    background-color: #C9C9C9;
   }
 }
 
 </style>
 </head>
 
-<div class="navbar navbar-default nav_color" >
+<div class="navbar navbar-default nav_color navbar-fixed-top" >
         
             <div class="navbar-header">
               <a class="navbar-brand" href="#">
-                <img class="logo" style="position:relative;top:-20px;">
+                <img src="img/logo.png" >
                 
                 
               </a>
@@ -98,14 +132,14 @@
 							
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav navbar-left">
+                <ul class="nav navbar-nav navbar-right">
                     <li><a href="index.php">HOME</a></li>
                      <li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS<span class="caret"></span></a>
 					 <ul class="dropdown-menu">
 						<li><a href="meet.php" >ANNUAL ALUMNI MEET</a></li>
 						<li><a href="sam.php" >STUDENTS' ALUMNI MEET</a></li>
 						<li><a href="guest_lectures.php" >GUEST LECTURES</a></li>
-						<li><a href="leadership_summit2.php" >LEADERSHIP SUMMIT</a></li>
+						<li><a href="leadership_summit.php" >LEADERSHIP SUMMIT</a></li>
 						<li><a href="alvida.php" >ALVIDA</a></li>
 					 </ul>
 					</li>
@@ -123,11 +157,12 @@
 					 </ul>
 					</li>
                      
-                      <li><a href="contact_new.php" >THE TEAM</a></li>
+                      <li><a href="contact.php" >THE TEAM</a></li>
                       <li><a href="chapter.php" >ALUMNI CHAPTERS</a></li>
 					  <li><a href="association.php" >ASSOCIATION</a></li>
                 </ul>
             </div>
            
      
-    </div><br>
+    </div>
+<script type="text/javascript" src="js/navbar.js"></script>

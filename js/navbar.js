@@ -1,16 +1,15 @@
 $(document).ready(function(){
 	$(window).scroll(function(){
-		
 		var position_top=$(document).scrollTop();
-		if(position_top>=100){
-			$('.navbar').addClass('navbar-fixed-top');
-			 $(".logo").attr("src", "img/logo.png");
+		if(position_top>=5){
+			$('.navbar').css('height','60px');
+			$('.nav').css('padding-top','0px');
+			$('.navbar-brand').css('padding','0px');
 			
-			
-		}else if(position_top<100){
-			$('.navbar ').removeClass('navbar-fixed-top');
-			$('.navbar ').addClass('navbar-inverse');
-		 	$(".logo").removeAttr("src");
+		}else if(position_top<5){
+			$('.navbar').css('height','90px');
+			$('.nav').css('padding-top','20px');
+			$('.navbar-brand').css('padding-top','15px');
 		}
 	} );
 	
